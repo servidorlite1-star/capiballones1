@@ -1,0 +1,1245 @@
+[13Jan2026 00:01:31.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COSMI_KC[/127.8.2.33:39337] logged in with entity id 25262 at (1029.300000011921, 62.0, 890.6999999880791)
+[13Jan2026 00:01:31.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC joined the game
+[13Jan2026 00:01:32.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wolsito moved too quickly! -9.362873556701288,1.0,-3.7782244326863292
+[13Jan2026 00:01:33.280] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of COSMI_KC (20)
+[13Jan2026 00:01:33.281] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to COSMI_KC
+[13Jan2026 00:01:40.686] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 00:01:41.687] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 00:01:41.688] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player COSMI_KC (531487eb-9e15-3acb-a345-55b66b8ef090) successfully connected to voice chat
+[13Jan2026 00:02:01.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> chat vales
+[13Jan2026 00:02:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> duerme
+[13Jan2026 00:02:23.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> v
+[13Jan2026 00:02:26.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> vc
+[13Jan2026 00:03:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> zzzzzzzzzzzzzzzzzz
+[13Jan2026 00:03:41.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> duerme pene
+[13Jan2026 00:03:45.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> zzz douglas
+[13Jan2026 00:03:51.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> zzzz riko
+[13Jan2026 00:04:09.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Stone Age]
+[13Jan2026 00:04:29.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was slain by Beast horsehoe crab
+[13Jan2026 00:04:29.873] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:04:53.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was blown up by Creeper
+[13Jan2026 00:04:53.632] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:05:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Voluntary Exile]
+[13Jan2026 00:05:16.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito reflexes failed against the Mantis Lords whilst trying to escape Pillager
+[13Jan2026 00:05:17.405] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:05:40.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has completed the challenge [Village Defender]
+[13Jan2026 00:06:12.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was slain by Sea Serpent
+[13Jan2026 00:06:12.919] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:10:39.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Knit a pack, dreams on my back!]
+[13Jan2026 00:11:08.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [The Imperial March]
+[13Jan2026 00:12:54.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Double Trouble]
+[13Jan2026 00:13:00.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[13Jan2026 00:13:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was slain by Wither Skeleton
+[13Jan2026 00:13:02.260] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:13:47.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Tiny Packs]
+[13Jan2026 00:14:12.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was slain by Wither Skeleton
+[13Jan2026 00:14:13.077] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:15:51.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: willi_pollas[/127.68.217.12:53221] logged in with entity id 38787 at (-803.6999999880791, 64.0, -711.2300722812909)
+[13Jan2026 00:15:51.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas joined the game
+[13Jan2026 00:15:57.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito reflexes failed against the Mantis Lords whilst trying to escape Skeleton
+[13Jan2026 00:15:58.203] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:16:14.170] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of willi_pollas (20)
+[13Jan2026 00:16:14.171] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to willi_pollas
+[13Jan2026 00:17:03.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Where Is The Stone Pen?]
+[13Jan2026 00:17:30.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was severed by the blades of honor
+[13Jan2026 00:17:30.720] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:17:53.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was slain by Hoglin
+[13Jan2026 00:17:53.882] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:18:26.018] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 00:18:27.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 00:18:27.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player willi_pollas (64215eca-97bf-3120-a4a2-e1295c78a502) successfully connected to voice chat
+[13Jan2026 00:18:32.953] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 00:19:30.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was slain by Wither Skeleton
+[13Jan2026 00:19:31.058] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:19:34.583] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[13Jan2026 00:19:41.003] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[13Jan2026 00:19:41.003] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[13Jan2026 00:20:00.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was doomed to fall by Phantom
+[13Jan2026 00:20:00.858] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:21:26.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> willi vc
+[13Jan2026 00:21:34.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> server de mierda
+[13Jan2026 00:21:36.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> sa
+[13Jan2026 00:21:53.897] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Jan2026 00:21:53.897] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Jan2026 00:21:53.923] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Jan2026 00:21:53.923] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Jan2026 00:22:02.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9148ms or 182 ticks behind
+[13Jan2026 00:22:53.365] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/44861, l='ServerLevel[world]', x=1360.03, y=52.25, z=6845.51]
+[13Jan2026 00:22:53.365] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/44862, l='ServerLevel[world]', x=1360.03, y=52.25, z=6845.51]
+[13Jan2026 00:22:53.365] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/44863, l='ServerLevel[world]', x=1360.03, y=52.25, z=6845.51]
+[13Jan2026 00:22:53.366] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/44864, l='ServerLevel[world]', x=1360.03, y=52.25, z=6845.51]
+[13Jan2026 00:22:53.366] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/44865, l='ServerLevel[world]', x=1360.03, y=52.25, z=6845.51]
+[13Jan2026 00:23:11.418] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jan2026 00:24:09.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was killed by magic
+[13Jan2026 00:24:44.542] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wolsito lost connection: Disconnected
+[13Jan2026 00:24:44.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito left the game
+[13Jan2026 00:24:44.551] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Wolsito
+[13Jan2026 00:24:44.565] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC lost connection: Disconnected
+[13Jan2026 00:24:44.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC left the game
+[13Jan2026 00:24:44.567] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client COSMI_KC
+[13Jan2026 00:24:44.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: willi_pollas lost connection: Disconnected
+[13Jan2026 00:24:44.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas left the game
+[13Jan2026 00:24:44.576] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client willi_pollas
+[13Jan2026 00:24:44.584] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:24:44.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 35627ms or 712 ticks behind
+[13Jan2026 00:24:46.646] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@632621af[id=<null>,name=Wolsito,properties={},legacy=false] (/127.9.127.23:46185) lost connection: Disconnected
+[13Jan2026 00:24:58.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wolsito[/127.9.127.23:41657] logged in with entity id 50481 at (1106.2261986585625, 63.785726586914244, 6825.115747424325)
+[13Jan2026 00:24:58.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito joined the game
+[13Jan2026 00:24:59.513] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Wolsito (20)
+[13Jan2026 00:24:59.515] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Wolsito
+[13Jan2026 00:25:02.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c3fc480c-d72a-3379-ba47-debcac609438
+[13Jan2026 00:25:03.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c3fc480c-d72a-3379-ba47-debcac609438
+[13Jan2026 00:25:03.677] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Wolsito (c3fc480c-d72a-3379-ba47-debcac609438) successfully connected to voice chat
+[13Jan2026 00:25:12.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: willi_pollas[/127.68.217.12:34461] logged in with entity id 50871 at (-803.6999999880791, 64.0, -712.6576350962242)
+[13Jan2026 00:25:12.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas joined the game
+[13Jan2026 00:25:15.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of willi_pollas (20)
+[13Jan2026 00:25:15.991] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to willi_pollas
+[13Jan2026 00:25:49.309] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75c096cc[id=<null>,name=COSMI_KC,properties={},legacy=false] (/127.8.2.33:45701) lost connection: Disconnected
+[13Jan2026 00:25:57.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COSMI_KC[/127.8.2.33:43239] logged in with entity id 51874 at (1153.5311138103336, 64.0, 1308.5577390567169)
+[13Jan2026 00:25:57.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC joined the game
+[13Jan2026 00:25:58.643] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of COSMI_KC (20)
+[13Jan2026 00:25:58.644] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to COSMI_KC
+[13Jan2026 00:26:03.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 00:26:04.143] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 00:26:04.144] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player COSMI_KC (531487eb-9e15-3acb-a345-55b66b8ef090) successfully connected to voice chat
+[13Jan2026 00:26:06.722] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/51959, l='ServerLevel[world]', x=1155.87, y=64.00, z=1304.27, removed=DISCARDED]
+[13Jan2026 00:26:06.722] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/51958, l='ServerLevel[world]', x=1154.72, y=64.00, z=1304.74, removed=DISCARDED]
+[13Jan2026 00:26:08.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 00:26:09.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 00:26:09.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player willi_pollas (64215eca-97bf-3120-a4a2-e1295c78a502) successfully connected to voice chat
+[13Jan2026 00:26:40.646] [Worker-Main-5/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 00:27:10.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was slain by Husk
+[13Jan2026 00:27:10.391] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:27:11.627] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/51959, l='ServerLevel[world]', x=1155.87, y=64.00, z=1304.27, removed=DISCARDED]
+[13Jan2026 00:27:11.628] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/51958, l='ServerLevel[world]', x=1154.72, y=64.00, z=1304.74, removed=DISCARDED]
+[13Jan2026 00:27:58.015] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jan2026 00:27:58.025] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jan2026 00:28:58.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 531487eb-9e15-3acb-a345-55b66b8ef090 timed out
+[13Jan2026 00:28:58.461] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player COSMI_KC
+[13Jan2026 00:28:58.462] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to COSMI_KC
+[13Jan2026 00:29:10.049] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1547, y=25, z=7199} but found not block entity block Block{minecraft:water}[level=0] at location
+[13Jan2026 00:29:10.049] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1547, y=25, z=7199}
+[13Jan2026 00:29:13.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC lost connection: Disconnected
+[13Jan2026 00:29:13.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC left the game
+[13Jan2026 00:29:13.279] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client COSMI_KC
+[13Jan2026 00:29:13.345] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jan2026 00:29:24.131] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 9.702763553725845,0.0,3.7429074587180367
+[13Jan2026 00:29:24.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 10.07594676733288,0.0,3.886865437900269
+[13Jan2026 00:29:24.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 10.449129980939915,0.0,4.030823417082502
+[13Jan2026 00:29:24.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 10.82231319454695,0.0,4.174781396264734
+[13Jan2026 00:29:24.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 11.195496408153986,0.0,4.318739375446967
+[13Jan2026 00:29:24.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 11.568679621761248,0.0,4.462697354629199
+[13Jan2026 00:29:24.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 11.94186283536851,0.0,4.606655333811432
+[13Jan2026 00:29:24.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 12.315046048975773,0.0,4.750613312993664
+[13Jan2026 00:29:24.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 12.688229262583036,0.0,4.894571292175897
+[13Jan2026 00:29:24.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 13.061412476190299,0.0,5.038529271358129
+[13Jan2026 00:29:24.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 13.434595689797561,0.0,5.182487250540362
+[13Jan2026 00:29:24.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 13.807778903404824,0.0,5.326445229722594
+[13Jan2026 00:29:24.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 14.180962117012086,0.0,5.470403208904827
+[13Jan2026 00:29:24.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 14.554145330619349,0.0,5.614361188087059
+[13Jan2026 00:29:24.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 14.927328544226839,0.0,5.758319167269292
+[13Jan2026 00:29:24.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 15.300511757834329,0.0,5.9022771464515245
+[13Jan2026 00:29:24.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 15.673694971441819,0.0,6.046235125633757
+[13Jan2026 00:29:24.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 9.702763553790419,0.0,3.7429074587380455
+[13Jan2026 00:29:24.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 10.075946767397909,0.0,3.886865437920278
+[13Jan2026 00:29:24.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 10.449129981005399,0.0,4.030823417102511
+[13Jan2026 00:29:24.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 10.822313194612889,0.0,4.174781396284743
+[13Jan2026 00:29:24.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 11.195496408220379,0.0,4.318739375466976
+[13Jan2026 00:29:24.318] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 11.568679621827869,0.0,4.462697354649208
+[13Jan2026 00:29:24.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 11.941862835435359,0.0,4.606655333831441
+[13Jan2026 00:29:24.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 12.315046049042849,0.0,4.750613313013673
+[13Jan2026 00:29:24.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 12.688229262650339,0.0,4.894571292195906
+[13Jan2026 00:29:24.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 13.061412476257829,0.0,5.038529271378138
+[13Jan2026 00:29:24.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 13.434595689865318,0.0,5.182487250560371
+[13Jan2026 00:29:24.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 13.807778903472808,0.0,5.326445229742603
+[13Jan2026 00:29:24.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 14.180962117080298,0.0,5.470403208924836
+[13Jan2026 00:29:24.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 14.554145330687788,0.0,5.614361188107068
+[13Jan2026 00:29:24.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 14.927328544295278,0.0,5.758319167289301
+[13Jan2026 00:29:24.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 15.300511757902768,0.0,5.902277146471533
+[13Jan2026 00:29:24.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 15.673694971510258,0.0,6.046235125653766
+[13Jan2026 00:29:24.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 16.046878185117748,0.0,6.190193104835998
+[13Jan2026 00:29:24.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 16.420061398725238,0.0,6.334151084018231
+[13Jan2026 00:29:24.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 16.793244612332728,0.0,6.478109063200463
+[13Jan2026 00:29:24.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 17.166427825940218,0.0,6.622067042382696
+[13Jan2026 00:29:24.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 17.539611039547708,0.0,6.7660250215649285
+[13Jan2026 00:29:24.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 17.912794253155198,0.0,6.909983000747161
+[13Jan2026 00:29:24.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 18.285977466762688,0.0,7.0539409799293935
+[13Jan2026 00:29:24.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 18.659160680370178,0.0,7.197898959111626
+[13Jan2026 00:29:24.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 19.032343893977668,0.0,7.3418569382938585
+[13Jan2026 00:29:24.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 19.405527107585158,0.0,7.485814917476091
+[13Jan2026 00:29:24.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 19.778710321192648,0.0,7.629772896658324
+[13Jan2026 00:29:24.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 20.151893534800138,0.0,7.773730875840556
+[13Jan2026 00:29:24.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 20.525076748407628,0.0,7.917688855022789
+[13Jan2026 00:29:24.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 20.898259962015118,0.0,8.061646834205021
+[13Jan2026 00:29:24.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 21.271443175622608,0.0,8.205604813387254
+[13Jan2026 00:29:24.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 21.644626389230098,0.0,8.349562792569486
+[13Jan2026 00:29:24.325] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 22.017809602837588,0.0,8.493520771751719
+[13Jan2026 00:29:24.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 22.390992816445078,0.0,8.637478750933951
+[13Jan2026 00:29:24.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 13.434595689869639,0.0,5.182487250560371
+[13Jan2026 00:29:24.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 13.807778903477129,0.0,5.326445229742603
+[13Jan2026 00:29:24.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 14.180962117084619,0.0,5.470403208924836
+[13Jan2026 00:29:24.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 14.554145330692108,0.0,5.614361188107068
+[13Jan2026 00:29:24.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 14.927328544299598,0.0,5.758319167289301
+[13Jan2026 00:29:24.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 15.300511757907088,0.0,5.902277146471533
+[13Jan2026 00:29:24.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 15.673694971514578,0.0,6.046235125653766
+[13Jan2026 00:29:24.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 16.04687818512207,0.0,6.190193104835998
+[13Jan2026 00:29:24.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 16.42006139872956,0.0,6.334151084018231
+[13Jan2026 00:29:24.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 16.79324461233705,0.0,6.478109063200463
+[13Jan2026 00:29:24.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 17.166427825944538,0.0,6.622067042382696
+[13Jan2026 00:29:24.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 17.539611039552028,0.0,6.7660250215649285
+[13Jan2026 00:29:25.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 17.912794253159518,0.0,6.909983000747161
+[13Jan2026 00:29:25.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 18.285977466767008,0.0,7.0539409799293935
+[13Jan2026 00:29:25.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 18.659160680374498,0.0,7.197898959111626
+[13Jan2026 00:29:25.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 19.032343893981988,0.0,7.3418569382938585
+[13Jan2026 00:29:25.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 19.405527107589478,0.0,7.485814917476091
+[13Jan2026 00:29:25.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 19.778710321196968,0.0,7.629772896658324
+[13Jan2026 00:29:25.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 20.151893534804458,0.0,7.773730875840556
+[13Jan2026 00:29:25.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Wolsito) moved too quickly! 20.525076748411948,0.0,7.917688855022789
+[13Jan2026 00:29:38.564] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Jan2026 00:29:38.564] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Jan2026 00:29:39.190] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[13Jan2026 00:29:39.190] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[13Jan2026 00:29:41.900] [Worker-Main-4/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 00:29:49.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> se le fue la luz a ocoro xd
+[13Jan2026 00:29:56.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> xd
+[13Jan2026 00:30:39.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COSMI_KC[/127.8.2.33:54807] logged in with entity id 58951 at (1339.6713448519874, 69.0, 1260.4965847491346)
+[13Jan2026 00:30:39.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC joined the game
+[13Jan2026 00:30:39.837] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of COSMI_KC (20)
+[13Jan2026 00:30:39.837] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to COSMI_KC
+[13Jan2026 00:30:43.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 00:30:44.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 00:30:44.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player COSMI_KC (531487eb-9e15-3acb-a345-55b66b8ef090) successfully connected to voice chat
+[13Jan2026 00:31:11.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Isn't It Iron Pick]
+[13Jan2026 00:31:15.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas has made the advancement [Hot Stuff]
+[13Jan2026 00:31:37.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2022, y=83, z=7293} BlockPos{x=2022, y=81, z=7292}
+[13Jan2026 00:31:53.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas has made the advancement [Dark Metallurgy]
+[13Jan2026 00:32:49.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 64215eca-97bf-3120-a4a2-e1295c78a502 timed out
+[13Jan2026 00:32:49.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player willi_pollas
+[13Jan2026 00:32:49.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to willi_pollas
+[13Jan2026 00:32:56.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has reached the goal [Greed may lead to loss]
+[13Jan2026 00:32:57.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Stone Free]
+[13Jan2026 00:32:58.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: willi_pollas lost connection: Timed out
+[13Jan2026 00:32:58.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas left the game
+[13Jan2026 00:32:58.369] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client willi_pollas
+[13Jan2026 00:33:43.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: willi_pollas[/127.68.217.12:57385] logged in with entity id 64170 at (-709.0632506765024, 71.0, -757.6920827109349)
+[13Jan2026 00:33:43.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas joined the game
+[13Jan2026 00:34:00.617] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of willi_pollas (20)
+[13Jan2026 00:34:00.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to willi_pollas
+[13Jan2026 00:34:19.747] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 00:34:20.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 00:34:20.744] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player willi_pollas (64215eca-97bf-3120-a4a2-e1295c78a502) successfully connected to voice chat
+[13Jan2026 00:35:09.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c3fc480c-d72a-3379-ba47-debcac609438 timed out
+[13Jan2026 00:35:09.366] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Wolsito
+[13Jan2026 00:35:09.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Wolsito
+[13Jan2026 00:35:15.063] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wolsito lost connection: Timed out
+[13Jan2026 00:35:15.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito left the game
+[13Jan2026 00:35:15.064] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Wolsito
+[13Jan2026 00:37:00.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wolsito[/127.9.127.23:40843] logged in with entity id 67134 at (66.38075325657739, 22.0, 45.135185198108594)
+[13Jan2026 00:37:00.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito joined the game
+[13Jan2026 00:37:01.376] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Wolsito (20)
+[13Jan2026 00:37:01.377] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Wolsito
+[13Jan2026 00:37:01.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Jan2026 00:37:05.055] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c3fc480c-d72a-3379-ba47-debcac609438
+[13Jan2026 00:37:06.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c3fc480c-d72a-3379-ba47-debcac609438
+[13Jan2026 00:37:06.056] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Wolsito (c3fc480c-d72a-3379-ba47-debcac609438) successfully connected to voice chat
+[13Jan2026 00:37:17.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/59196, l='ServerLevel[world]', x=1330.48, y=64.75, z=1126.30] died, message: 'Butcher was struck with lightning by Lightning Dragon'
+[13Jan2026 00:39:04.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Zombie
+[13Jan2026 00:39:05.574] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 00:40:15.964] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59243, l='ServerLevel[world]', x=1340.10, y=63.00, z=1136.17] died, message: 'Villager was struck with lightning by Lightning Dragon'
+[13Jan2026 00:41:56.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Rotten King]
+[13Jan2026 00:42:16.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/59198, l='ServerLevel[world]', x=1351.48, y=63.94, z=1127.54] died, message: 'Leatherworker was struck with lightning by Lightning Dragon'
+[13Jan2026 00:42:17.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TheEarthloongEntity['dungeon guardian'/1053, l='ServerLevel[world]', x=94.28, y=16.00, z=80.28] died: dungeon guardian was slain by Wolsito
+[13Jan2026 00:43:46.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was shot by Skeleton
+[13Jan2026 00:43:47.146] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:43:56.732] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 00:44:09.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> willian
+[13Jan2026 00:44:12.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> reinicia tu server hdp
+[13Jan2026 00:44:13.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> a
+[13Jan2026 00:44:16.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> desaparece las mohcila
+[13Jan2026 00:44:19.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> xddd
+[13Jan2026 00:44:19.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> me cabrea eso
+[13Jan2026 00:44:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> cambiaré las mochilas
+[13Jan2026 00:44:31.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> tosas se me desaparecieron
+[13Jan2026 00:44:32.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> si hazlo
+[13Jan2026 00:44:52.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> estan chevres
+[13Jan2026 00:44:52.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Shulker Box] to Wolsito
+[13Jan2026 00:45:10.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> si vas a cambiar que sea otro dia
+[13Jan2026 00:45:15.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> se me pierde denuevo
+[13Jan2026 00:45:18.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> reinicia tu gubeada
+[13Jan2026 00:45:22.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Shulker Box] to 3
+[13Jan2026 00:45:26.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Jan2026 00:45:26.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hasta mientras<--[HERE]
+[13Jan2026 00:45:29.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> y ese shulker
+[13Jan2026 00:45:30.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> xd
+[13Jan2026 00:45:33.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> reinicia server
+[13Jan2026 00:45:36.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> hasta mientras
+[13Jan2026 00:45:41.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> no voy a reiniciar nada
+[13Jan2026 00:45:44.017] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69878, l='ServerLevel[world]', x=-808.57, y=109.00, z=-832.45] died, message: 'Villager was slain by Swarmer'
+[13Jan2026 00:45:48.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> ya porque entraste tarde
+[13Jan2026 00:45:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> yo que
+[13Jan2026 00:46:07.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> xd
+[13Jan2026 00:46:13.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: willi_pollas moved wrongly!
+[13Jan2026 00:46:23.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> oe willian espera si me iba a suciidar
+[13Jan2026 00:46:26.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> xq voy al sapw
+[13Jan2026 00:47:06.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> te muteaste
+[13Jan2026 00:47:07.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> xd
+[13Jan2026 00:47:18.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> oe william me matare y me los das de nuevo ire al sapw
+[13Jan2026 00:47:29.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> wen
+[13Jan2026 00:47:29.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Amateur Archaeologist]
+[13Jan2026 00:48:07.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was killed by Witch using magic
+[13Jan2026 00:48:32.515] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 64215eca-97bf-3120-a4a2-e1295c78a502 timed out
+[13Jan2026 00:48:37.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player willi_pollas
+[13Jan2026 00:48:37.252] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to willi_pollas
+[13Jan2026 00:48:37.255] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Dropping voice chat packets! Your Server might be overloaded!
+[13Jan2026 00:48:37.255] [VoiceChatPacketProcessingThread/WARN] [voicechat/]: [voicechat] Packet queue has 277 packets
+[13Jan2026 00:48:37.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC lost connection: Disconnected
+[13Jan2026 00:48:37.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC left the game
+[13Jan2026 00:48:37.659] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client COSMI_KC
+[13Jan2026 00:48:37.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: willi_pollas lost connection: Disconnected
+[13Jan2026 00:48:37.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas left the game
+[13Jan2026 00:48:37.668] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client willi_pollas
+[13Jan2026 00:48:37.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wolsito lost connection: Disconnected
+[13Jan2026 00:48:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito left the game
+[13Jan2026 00:48:37.678] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Wolsito
+[13Jan2026 00:48:37.692] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4409a8bd[id=<null>,name=willi_pollas,properties={},legacy=false] (/127.68.217.12:60011) lost connection: Disconnected
+[13Jan2026 00:48:37.693] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 00:48:37.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30693ms or 613 ticks behind
+[13Jan2026 00:48:49.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COSMI_KC[/127.8.2.33:46249] logged in with entity id 94743 at (1356.7536113659753, 63.0, 1138.4577944147056)
+[13Jan2026 00:48:49.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC joined the game
+[13Jan2026 00:48:51.068] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of COSMI_KC (20)
+[13Jan2026 00:48:51.068] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to COSMI_KC
+[13Jan2026 00:48:54.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 00:48:55.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 00:48:55.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player COSMI_KC (531487eb-9e15-3acb-a345-55b66b8ef090) successfully connected to voice chat
+[13Jan2026 00:48:59.981] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wolsito[/127.9.127.23:35881] logged in with entity id 95174 at (1211.6799458279936, 79.0, 6768.368223412106)
+[13Jan2026 00:48:59.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito joined the game
+[13Jan2026 00:49:01.160] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Wolsito (20)
+[13Jan2026 00:49:01.161] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Wolsito
+[13Jan2026 00:49:03.288] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: willi_pollas[/127.68.217.12:41233] logged in with entity id 95392 at (-831.5298481362557, 108.11600008010886, -882.6333185961537)
+[13Jan2026 00:49:03.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas joined the game
+[13Jan2026 00:49:05.927] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of willi_pollas (20)
+[13Jan2026 00:49:05.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to willi_pollas
+[13Jan2026 00:49:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> q vrg
+[13Jan2026 00:49:07.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c3fc480c-d72a-3379-ba47-debcac609438
+[13Jan2026 00:49:08.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c3fc480c-d72a-3379-ba47-debcac609438
+[13Jan2026 00:49:08.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Wolsito (c3fc480c-d72a-3379-ba47-debcac609438) successfully connected to voice chat
+[13Jan2026 00:49:12.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> oe
+[13Jan2026 00:49:22.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 00:49:23.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 00:49:23.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player willi_pollas (64215eca-97bf-3120-a4a2-e1295c78a502) successfully connected to voice chat
+[13Jan2026 00:49:24.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> voy a gemir
+[13Jan2026 00:49:54.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Book of Monsters]
+[13Jan2026 00:50:27.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was slain by Mantis
+[13Jan2026 00:50:27.919] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:50:33.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> listo willi damelas
+[13Jan2026 00:50:45.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Shulker Box] to Wolsito
+[13Jan2026 00:50:51.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] es solo una
+[13Jan2026 00:50:52.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> grax
+[13Jan2026 00:52:52.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> pq no hablas tilin
+[13Jan2026 00:53:11.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Amateur Archaeologist]
+[13Jan2026 00:53:51.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was slain by Zombie Bruiser
+[13Jan2026 00:53:51.220] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:54:54.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was shot by Skeleton
+[13Jan2026 00:54:54.723] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:55:06.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has reached the goal [Pray to the Goddess]
+[13Jan2026 00:55:27.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has completed the challenge [Hero of Hyrule]
+[13Jan2026 00:55:46.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was shot by Skeleton
+[13Jan2026 00:55:46.726] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:56:19.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was killed by Witch using magic
+[13Jan2026 00:56:19.873] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 00:57:08.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was shot by Dungeon Guardian
+[13Jan2026 00:57:08.501] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:57:18.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC joined the eternal performance whilst trying to escape Grimm
+[13Jan2026 00:57:18.284] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:57:32.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was slain by Grimm
+[13Jan2026 00:57:32.635] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:57:48.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was slain by Grimm
+[13Jan2026 00:57:48.732] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:58:01.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC joined the eternal performance whilst trying to escape Grimm
+[13Jan2026 00:58:01.196] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:58:02.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1108, y=65, z=1137}
+[13Jan2026 00:58:17.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was scorched beneath the crimson fire
+[13Jan2026 00:58:17.972] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:58:19.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was shot by Dungeon Guardian
+[13Jan2026 00:58:19.645] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 00:58:37.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC joined the eternal performance whilst trying to escape Grimm
+[13Jan2026 00:58:37.925] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 00:58:56.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was slain by Grimm
+[13Jan2026 00:58:56.131] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 01:00:51.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Jan2026 01:01:08.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Forest drake
+[13Jan2026 01:01:08.801] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:01:10.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4357ms or 87 ticks behind
+[13Jan2026 01:01:12.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has reached the goal [Exorcism]
+[13Jan2026 01:01:47.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> estra a la VC williverga
+[13Jan2026 01:02:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was shot by Dungeon Guardian
+[13Jan2026 01:02:02.026] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 01:02:42.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was slain by Lightning Dragon
+[13Jan2026 01:02:42.926] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 01:03:04.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was struck with lightning by Lightning Dragon
+[13Jan2026 01:03:04.479] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 01:03:18.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was energized by Lightning Dragon
+[13Jan2026 01:03:18.585] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 01:03:40.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was slain by Lightning Dragon
+[13Jan2026 01:03:40.777] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 01:04:30.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was shot by Skeleton
+[13Jan2026 01:04:30.789] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:04:35.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Diamonds!]
+[13Jan2026 01:05:28.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 01:05:28.969] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:06:48.011] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jan2026 01:06:48.011] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jan2026 01:06:54.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 01:06:55.113] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:08:27.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 01:08:27.470] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:09:56.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 01:09:56.670] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:10:13.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 01:10:13.668] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:10:33.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Dragon Commander]
+[13Jan2026 01:10:37.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> chicos
+[13Jan2026 01:10:45.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> grim se está peleando con un jefe
+[13Jan2026 01:10:50.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> xd
+[13Jan2026 01:10:52.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> sin ser mi aliado
+[13Jan2026 01:10:52.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> pollas
+[13Jan2026 01:11:00.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> quieres esta hvd para tener coras?
+[13Jan2026 01:11:05.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> tengo como 5 stack
+[13Jan2026 01:11:07.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 01:11:08.025] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:11:09.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> ENTRA A VC
+[13Jan2026 01:11:13.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> puta zorra estupida
+[13Jan2026 01:11:24.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was killed by magic
+[13Jan2026 01:11:24.835] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:12:04.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 01:12:04.433] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:12:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was killed by magic
+[13Jan2026 01:12:26.575] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:12:26.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6149ms or 122 ticks behind
+[13Jan2026 01:12:44.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[13Jan2026 01:13:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> willi
+[13Jan2026 01:13:10.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11123ms or 222 ticks behind
+[13Jan2026 01:13:16.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> perdi mi shulekr exploto al abrir mi rumba
+[13Jan2026 01:13:17.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> :C
+[13Jan2026 01:13:27.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[13Jan2026 01:15:02.885] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13Jan2026 01:15:20.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3036ms or 60 ticks behind
+[13Jan2026 01:15:27.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> s
+[13Jan2026 01:15:59.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13Jan2026 01:16:16.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[13Jan2026 01:18:33.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was slain by Fire Dragon
+[13Jan2026 01:18:33.608] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 01:20:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Close Quarters]
+[13Jan2026 01:21:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Ice Bucket Challenge]
+[13Jan2026 01:22:35.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> WILLIAN EL SHUKERLER SE ME PERDIO
+[13Jan2026 01:22:39.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> LO NECSITO
+[13Jan2026 01:23:42.354] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 01:23:56.944] [Worker-Main-4/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 01:24:18.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Barrel Booty]
+[13Jan2026 01:24:30.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> como se te va a perder
+[13Jan2026 01:24:38.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> FUI A MI TUMBA
+[13Jan2026 01:24:46.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> Y AL ABRIR TODO SE FUE AL PISO
+[13Jan2026 01:24:53.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> Y EXPLOTO UN DRAGON CON SU ATAQUE
+[13Jan2026 01:30:56.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Bony King]
+[13Jan2026 01:32:10.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player c3fc480c-d72a-3379-ba47-debcac609438 timed out
+[13Jan2026 01:32:10.162] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Wolsito
+[13Jan2026 01:32:10.162] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Wolsito
+[13Jan2026 01:32:18.420] [Server thread/WARN] [tombstone/]: The death event of the player Wolsito was canceled by another mod
+[13Jan2026 01:32:18.421] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 01:32:19.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wolsito lost connection: Timed out
+[13Jan2026 01:32:19.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito left the game
+[13Jan2026 01:32:19.514] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Wolsito
+[13Jan2026 01:34:56.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Best Friends Forever]
+[13Jan2026 01:37:41.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Not Today, Thank You]
+[13Jan2026 01:37:46.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Wolsito[/127.9.127.23:55367] logged in with entity id 161077 at (56.30463306791996, 11.0, 80.92323300424255)
+[13Jan2026 01:37:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito joined the game
+[13Jan2026 01:37:47.119] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Wolsito (20)
+[13Jan2026 01:37:47.119] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Wolsito
+[13Jan2026 01:37:50.577] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player c3fc480c-d72a-3379-ba47-debcac609438
+[13Jan2026 01:37:51.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player c3fc480c-d72a-3379-ba47-debcac609438
+[13Jan2026 01:37:51.579] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Wolsito (c3fc480c-d72a-3379-ba47-debcac609438) successfully connected to voice chat
+[13Jan2026 01:40:44.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> ya vengo voy a vcomewr verga
+[13Jan2026 01:40:46.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC lost connection: Disconnected
+[13Jan2026 01:40:46.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC left the game
+[13Jan2026 01:40:46.916] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client COSMI_KC
+[13Jan2026 01:44:33.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was slain by Ferrous Wroughtnaut
+[13Jan2026 01:44:34.705] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 01:47:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has completed the challenge [Just a Flesh Wound]
+[13Jan2026 01:49:51.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Tie me to the Mast]
+[13Jan2026 01:50:34.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was slain by Sea Serpent
+[13Jan2026 01:50:34.578] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 01:52:13.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Sea? Not a Problem]
+[13Jan2026 01:53:58.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Free Willy]
+[13Jan2026 01:54:16.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.4395216112840856
+[13Jan2026 01:54:19.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.6258567194038442
+[13Jan2026 01:54:20.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 1.8325303257169718
+[13Jan2026 01:54:26.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.8304575618847111
+[13Jan2026 01:54:27.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.48818815380815644
+[13Jan2026 01:54:27.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.6476773461635909
+[13Jan2026 01:54:28.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.4989062088486196
+[13Jan2026 01:54:32.099] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[13Jan2026 01:54:32.100] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[13Jan2026 01:54:32.100] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[13Jan2026 01:54:32.100] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[13Jan2026 01:54:32.100] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[13Jan2026 01:54:32.101] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[13Jan2026 01:54:32.101] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[13Jan2026 01:54:39.478] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[13Jan2026 01:54:39.478] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[13Jan2026 01:54:39.479] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[13Jan2026 01:54:39.479] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[13Jan2026 01:54:39.479] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[13Jan2026 01:54:39.484] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[13Jan2026 01:54:39.484] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[13Jan2026 01:54:39.484] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[13Jan2026 01:54:39.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.8302484736154957
+[13Jan2026 01:54:40.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.8302871580246339
+[13Jan2026 01:54:44.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.8299428636509496
+[13Jan2026 01:54:45.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.6051615683681713
+[13Jan2026 01:54:46.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.7479758841452464
+[13Jan2026 01:54:46.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.6389559342622928
+[13Jan2026 01:54:46.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.6389559342622928
+[13Jan2026 01:54:47.292] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[13Jan2026 01:54:47.292] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[13Jan2026 01:54:47.292] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[13Jan2026 01:54:47.293] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[13Jan2026 01:54:47.334] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[13Jan2026 01:54:47.334] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[13Jan2026 01:54:47.335] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[13Jan2026 01:54:47.335] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[13Jan2026 01:55:00.857] [Worker-Main-4/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 01:55:01.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1092, y=11, z=7515} but found not block entity block Block{minecraft:water}[level=1] at location
+[13Jan2026 01:55:01.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1092, y=11, z=7515}
+[13Jan2026 01:55:44.160] [Worker-Main-4/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 01:56:04.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.35754328054737655
+[13Jan2026 01:56:39.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 01:56:39.704] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:56:43.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.8247340594847062
+[13Jan2026 01:56:43.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.8247340594847062
+[13Jan2026 01:56:44.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.5297262373605635
+[13Jan2026 01:56:44.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.5297262373605635
+[13Jan2026 01:56:48.771] [Worker-Main-5/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 01:56:56.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/187093, l='ServerLevel[world]', x=-781.49, y=98.42, z=-819.48] died, message: 'Toolsmith was slain by Decaying Zombie'
+[13Jan2026 01:56:57.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 01:56:57.515] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:57:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 01:57:24.689] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:57:34.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas fell to the precision of the Mantis tribe whilst trying to escape Mantis
+[13Jan2026 01:57:34.504] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:58:03.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 01:58:03.997] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:58:08.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: COSMI_KC[/127.8.2.33:45993] logged in with entity id 190126 at (1556.762499988079, 84.0, 1902.300000011921)
+[13Jan2026 01:58:08.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC joined the game
+[13Jan2026 01:58:08.882] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of COSMI_KC (20)
+[13Jan2026 01:58:08.882] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to COSMI_KC
+[13Jan2026 01:58:12.442] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 01:58:13.443] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 531487eb-9e15-3acb-a345-55b66b8ef090
+[13Jan2026 01:58:13.443] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player COSMI_KC (531487eb-9e15-3acb-a345-55b66b8ef090) successfully connected to voice chat
+[13Jan2026 01:58:16.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 01:58:16.905] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:58:27.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas fell to the precision of the Mantis tribe whilst trying to escape Nightmare Stalker
+[13Jan2026 01:58:44.859] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:58:44.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16989ms or 339 ticks behind
+[13Jan2026 01:58:53.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> entra a VC willi
+[13Jan2026 01:58:56.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Mantis
+[13Jan2026 01:58:56.381] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:58:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> o salte del server
+[13Jan2026 01:59:03.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 01:59:03.233] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:59:12.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas reflexes failed against the Mantis Lords
+[13Jan2026 01:59:12.929] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:59:23.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas reflexes failed against the Mantis Lords
+[13Jan2026 01:59:24.258] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:59:26.358] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/191841, l='ServerLevel[world]', x=-760.86, y=95.00, z=-907.94] died, message: 'Farmer was slain by Zombie Clown'
+[13Jan2026 01:59:35.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 01:59:36.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas has reached the goal [Bone Crusher]
+[13Jan2026 01:59:36.353] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 01:59:36.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: willi_pollas moved too quickly! -3.8125408660297353,-0.16902379758701613,9.986964356029603
+[13Jan2026 01:59:45.776] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 01:59:47.242] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 01:59:51.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.8240847673404209
+[13Jan2026 01:59:51.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of Wolsito) moved wrongly! 0.6188174346397458
+[13Jan2026 02:00:09.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas reflexes failed against the Mantis Lords
+[13Jan2026 02:00:09.704] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:00:13.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:00:21.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Mantis
+[13Jan2026 02:00:22.225] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:00:40.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Mantis
+[13Jan2026 02:00:40.680] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:00:45.561] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 02:00:49.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 02:00:50.194] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:01:01.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Mantis
+[13Jan2026 02:01:01.982] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:01:38.470] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:01:55.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas fell to the precision of the Mantis tribe whilst trying to escape Fallen Chaos Knight
+[13Jan2026 02:01:55.669] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:02:08.539] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:08.621] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:08.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:08.805] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:08.923] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.557] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.649] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.728] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.820] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:09.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.330] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.532] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.628] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.703] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.825] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:10.923] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:11.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:11.123] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:11.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:11.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:11.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:11.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:11.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:11.720] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:11.806] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2026 02:02:57.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Funeral Theft]
+[13Jan2026 02:03:03.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas fell from a high place
+[13Jan2026 02:03:03.743] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:03:35.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was severed by the blades of honor
+[13Jan2026 02:03:35.589] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:04:06.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was energized by Lightning Dragon
+[13Jan2026 02:04:06.939] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 02:04:29.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> 950
+[13Jan2026 02:04:34.024] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 02:05:37.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito was struck with lightning by Lightning Dragon
+[13Jan2026 02:05:38.422] [Server thread/INFO] [tombstone/]: The player Wolsito has successfully been saved
+[13Jan2026 02:05:38.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC moved too quickly! 3.041794134770953,0.0,10.455112131668557
+[13Jan2026 02:05:46.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC moved too quickly! 3.04179058980435,0.0,10.455101415103854
+[13Jan2026 02:05:49.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC moved too quickly! 3.0322439756942003,0.0,10.422288236239638
+[13Jan2026 02:05:52.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1604, y=48, z=2338} but found not block entity block Block{minecraft:water}[level=1] at location
+[13Jan2026 02:05:52.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1604, y=48, z=2338}
+[13Jan2026 02:06:05.971] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jan2026 02:06:05.971] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Jan2026 02:06:10.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC moved too quickly! -5.348675785638761,0.0,9.738433571445057
+[13Jan2026 02:06:12.807] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
+[13Jan2026 02:06:21.704] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Jan2026 02:06:21.704] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[13Jan2026 02:06:39.113] [Worker-Main-5/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 02:08:25.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [The Lighthouse]
+[13Jan2026 02:08:56.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Elite Zombie Warrior
+[13Jan2026 02:08:57.117] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:09:30.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Penteconter]
+[13Jan2026 02:09:52.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[13Jan2026 02:10:11.981] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
+[13Jan2026 02:10:55.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:10:55.851] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:11:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:11:51.125] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:12:13.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:12:14.246] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:12:57.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:12:57.589] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:13:13.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:13:13.829] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:13:24.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:13:24.702] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:13:38.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:13:38.347] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:13:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> kamath gg ez
+[13Jan2026 02:13:57.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [The Cursed Soul]
+[13Jan2026 02:14:05.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:14:06.194] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:14:19.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [New Champion]
+[13Jan2026 02:14:30.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:14:31.051] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:14:47.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:14:48.043] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:14:56.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Kamath
+[13Jan2026 02:14:57.036] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:15:21.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas has made the advancement [New Champion]
+[13Jan2026 02:15:27.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> gg ez
+[13Jan2026 02:15:40.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> te moriste como 15 veces
+[13Jan2026 02:15:47.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> gg ez
+[13Jan2026 02:18:50.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Zombie Bruiser
+[13Jan2026 02:18:50.492] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:19:48.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas has made the advancement [Life turned out to be a comedy]
+[13Jan2026 02:19:50.028] [Worker-Main-4/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 02:20:05.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Zombie
+[13Jan2026 02:20:06.103] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:20:06.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC moved too quickly! -8.316605613390266,-5.99996597160164,-1.2641623329245704
+[13Jan2026 02:20:33.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Tools of the Trade]
+[13Jan2026 02:21:59.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[13Jan2026 02:22:45.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> 917 62 7265
+[13Jan2026 02:22:52.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> x si quieres venir willi
+[13Jan2026 02:23:46.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> 917 62 7260
+[13Jan2026 02:24:01.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> oye wiilli
+[13Jan2026 02:24:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> EL MOD ESE DE THEARTENINGLY MOBS
+[13Jan2026 02:24:16.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> COMO DOSMETICAS DRAGONES
+[13Jan2026 02:34:31.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has completed the challenge [Hero of Hyrule]
+[13Jan2026 02:39:38.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> con estrellas del nether
+[13Jan2026 02:40:03.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> WILI PASA TUS CORD
+[13Jan2026 02:40:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <willi_pollas> no
+[13Jan2026 02:41:32.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Sea? Not a Problem]
+[13Jan2026 02:41:40.079] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jan2026 02:41:40.115] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jan2026 02:41:40.125] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jan2026 02:41:40.219] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jan2026 02:41:40.228] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jan2026 02:41:40.246] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jan2026 02:41:40.250] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jan2026 02:41:40.252] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[13Jan2026 02:41:45.523] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[13Jan2026 02:41:45.524] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[13Jan2026 02:41:45.524] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[13Jan2026 02:41:45.534] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[13Jan2026 02:41:45.534] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[13Jan2026 02:41:45.633] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[13Jan2026 02:41:45.651] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:41:45.655] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-58, z=-588}
+[13Jan2026 02:41:45.655] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[13Jan2026 02:41:45.675] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[13Jan2026 02:41:45.675] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[13Jan2026 02:41:45.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Prisoner Skull
+[13Jan2026 02:41:46.379] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:41:46.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wolsito moved too quickly! 7.081636967112104,3.750000149011612,6.0568331673985085
+[13Jan2026 02:41:47.432] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[13Jan2026 02:41:47.432] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[13Jan2026 02:41:47.432] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[13Jan2026 02:41:47.432] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[13Jan2026 02:41:47.432] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[13Jan2026 02:41:47.452] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[13Jan2026 02:41:47.452] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[13Jan2026 02:41:47.474] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[13Jan2026 02:41:47.491] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:41:48.809] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[13Jan2026 02:41:49.488] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[13Jan2026 02:41:49.488] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[13Jan2026 02:41:49.488] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[13Jan2026 02:41:49.501] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[13Jan2026 02:41:49.517] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[13Jan2026 02:41:49.618] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[13Jan2026 02:41:49.618] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[13Jan2026 02:41:50.459] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[13Jan2026 02:41:50.459] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[13Jan2026 02:41:50.459] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[13Jan2026 02:41:50.736] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[13Jan2026 02:41:50.737] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[13Jan2026 02:41:50.737] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[13Jan2026 02:41:50.769] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-53, z=-786}
+[13Jan2026 02:41:50.769] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-58, z=-785}
+[13Jan2026 02:41:50.770] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-58, z=-787}
+[13Jan2026 02:41:50.774] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[13Jan2026 02:41:50.775] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:41:50.776] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[13Jan2026 02:41:50.816] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[13Jan2026 02:41:50.816] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[13Jan2026 02:41:50.817] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[13Jan2026 02:41:50.820] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[13Jan2026 02:41:50.820] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[13Jan2026 02:41:50.836] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:41:51.016] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-380, y=-52, z=-727}
+[13Jan2026 02:41:51.016] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-375, y=-52, z=-726}
+[13Jan2026 02:41:51.055] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:41:51.065] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:41:51.066] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:41:51.066] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:41:57.938] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 02:42:10.521] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[13Jan2026 02:42:10.521] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[13Jan2026 02:42:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> pasa cor
+[13Jan2026 02:42:29.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=756, y=41, z=7766} BlockPos{x=756, y=39, z=7766}
+[13Jan2026 02:42:54.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Counselor Skull
+[13Jan2026 02:42:54.851] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:42:54.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC moved too quickly! -10.738366111792118,0.0,-0.24089276836821227
+[13Jan2026 02:43:18.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6947ms or 138 ticks behind
+[13Jan2026 02:43:18.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wolsito moved too quickly! -1.283898566370567,-9.25915673314298,-3.893645867925443
+[13Jan2026 02:43:18.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC moved too quickly! 0.0,10.31250061703873,0.0
+[13Jan2026 02:44:06.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Counselor Skull
+[13Jan2026 02:44:14.124] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:44:14.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7848ms or 156 ticks behind
+[13Jan2026 02:44:14.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC moved too quickly! 7.559320955124747,0.0,7.635044835182271
+[13Jan2026 02:44:32.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3509ms or 70 ticks behind
+[13Jan2026 02:45:38.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Good Demoman]
+[13Jan2026 02:45:45.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from COSMI_KC: Location (699.5733050107956, 41.0, 8315.371421843767) too far away from hit block BlockPos{x=699, y=39, z=8315}.
+[13Jan2026 02:45:45.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from COSMI_KC: Location (699.4924700260162, 41.0, 8315.186748206615) too far away from hit block BlockPos{x=699, y=39, z=8315}.
+[13Jan2026 02:45:45.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from COSMI_KC: Location (699.426829457283, 40.56622016429901, 8315.0) too far away from hit block BlockPos{x=699, y=39, z=8315}.
+[13Jan2026 02:45:45.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from COSMI_KC: Location (699.4891590178013, 41.0, 8315.065429784358) too far away from hit block BlockPos{x=699, y=39, z=8315}.
+[13Jan2026 02:45:46.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from COSMI_KC: Location (699.470275759697, 40.923120856285095, 8315.0) too far away from hit block BlockPos{x=699, y=39, z=8315}.
+[13Jan2026 02:45:50.802] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[13Jan2026 02:45:50.803] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[13Jan2026 02:45:50.836] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[13Jan2026 02:45:50.845] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[13Jan2026 02:45:50.846] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-56, z=-608}
+[13Jan2026 02:45:50.855] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-53, z=-786}
+[13Jan2026 02:45:50.855] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-787}
+[13Jan2026 02:45:50.855] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-785}
+[13Jan2026 02:45:50.858] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:45:50.859] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:45:50.863] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[13Jan2026 02:45:50.863] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[13Jan2026 02:45:52.653] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[13Jan2026 02:45:52.673] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[13Jan2026 02:45:52.673] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[13Jan2026 02:45:52.691] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:46:00.034] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-787}
+[13Jan2026 02:46:00.117] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:46:00.117] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:46:00.124] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-58, z=-787}
+[13Jan2026 02:46:00.912] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[13Jan2026 02:46:00.912] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[13Jan2026 02:46:00.912] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[13Jan2026 02:46:00.912] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[13Jan2026 02:46:01.876] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=-52, z=-726}
+[13Jan2026 02:46:01.877] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-390, y=-52, z=-725}
+[13Jan2026 02:46:01.877] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=-52, z=-727}
+[13Jan2026 02:46:01.877] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=-52, z=-718}
+[13Jan2026 02:46:01.877] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=-52, z=-718}
+[13Jan2026 02:46:01.877] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=-51, z=-719}
+[13Jan2026 02:46:01.877] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=-51, z=-719}
+[13Jan2026 02:46:01.878] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=-52, z=-718}
+[13Jan2026 02:46:01.878] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=-51, z=-717}
+[13Jan2026 02:46:01.878] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=-51, z=-717}
+[13Jan2026 02:46:01.906] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[13Jan2026 02:46:01.926] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[13Jan2026 02:46:01.926] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:46:01.941] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=-52, z=-711}
+[13Jan2026 02:46:01.942] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=-52, z=-714}
+[13Jan2026 02:46:01.960] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[13Jan2026 02:46:01.972] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[13Jan2026 02:46:01.981] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:03.143] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[13Jan2026 02:46:03.144] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[13Jan2026 02:46:03.144] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[13Jan2026 02:46:03.178] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[13Jan2026 02:46:03.178] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[13Jan2026 02:46:03.711] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[13Jan2026 02:46:03.712] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[13Jan2026 02:46:03.885] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:46:03.886] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:46:04.464] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[13Jan2026 02:46:04.465] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[13Jan2026 02:46:04.465] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[13Jan2026 02:46:04.503] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[13Jan2026 02:46:04.503] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[13Jan2026 02:46:04.512] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[13Jan2026 02:46:04.512] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[13Jan2026 02:46:04.526] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[13Jan2026 02:46:05.061] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[13Jan2026 02:46:05.074] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-56, z=-608}
+[13Jan2026 02:46:05.087] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:05.705] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[13Jan2026 02:46:05.706] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[13Jan2026 02:46:05.706] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[13Jan2026 02:46:05.706] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[13Jan2026 02:46:05.706] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[13Jan2026 02:46:05.706] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[13Jan2026 02:46:05.924] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[13Jan2026 02:46:05.925] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[13Jan2026 02:46:05.936] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[13Jan2026 02:46:05.937] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[13Jan2026 02:46:05.949] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[13Jan2026 02:46:05.949] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[13Jan2026 02:46:05.967] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[13Jan2026 02:46:06.037] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[13Jan2026 02:46:06.037] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[13Jan2026 02:46:06.117] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-549, y=-52, z=-829}
+[13Jan2026 02:46:06.117] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-551, y=-52, z=-829}
+[13Jan2026 02:46:06.117] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-51, z=-829}
+[13Jan2026 02:46:06.117] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-552, y=-51, z=-827}
+[13Jan2026 02:46:06.117] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-551, y=-53, z=-830}
+[13Jan2026 02:46:06.118] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-550, y=-52, z=-830}
+[13Jan2026 02:46:06.140] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[13Jan2026 02:46:06.144] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[13Jan2026 02:46:06.147] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[13Jan2026 02:46:06.158] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:46:06.162] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:46:06.162] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:46:06.177] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:06.224] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-553, y=-53, z=-830}
+[13Jan2026 02:46:06.245] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[13Jan2026 02:46:06.245] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[13Jan2026 02:46:06.246] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[13Jan2026 02:46:06.246] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[13Jan2026 02:46:06.246] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[13Jan2026 02:46:06.263] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[13Jan2026 02:46:06.276] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[13Jan2026 02:46:06.277] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:46:06.277] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:46:06.281] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[13Jan2026 02:46:06.282] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[13Jan2026 02:46:06.295] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:06.410] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-53, z=-786}
+[13Jan2026 02:46:06.410] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-785}
+[13Jan2026 02:46:06.413] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-597}
+[13Jan2026 02:46:06.468] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[13Jan2026 02:46:06.471] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[13Jan2026 02:46:06.471] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[13Jan2026 02:46:06.520] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[13Jan2026 02:46:06.520] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[13Jan2026 02:46:06.520] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[13Jan2026 02:46:06.520] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[13Jan2026 02:46:06.540] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[13Jan2026 02:46:06.558] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[13Jan2026 02:46:06.664] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[13Jan2026 02:46:06.674] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[13Jan2026 02:46:06.744] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[13Jan2026 02:46:06.744] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[13Jan2026 02:46:06.787] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-56, z=-608}
+[13Jan2026 02:46:06.788] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:46:06.788] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:46:06.788] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:46:06.791] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:46:06.799] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[13Jan2026 02:46:07.233] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-53, z=-786}
+[13Jan2026 02:46:07.233] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-58, z=-785}
+[13Jan2026 02:46:07.233] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:07.270] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[13Jan2026 02:46:07.271] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[13Jan2026 02:46:07.334] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[13Jan2026 02:46:07.334] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[13Jan2026 02:46:07.334] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[13Jan2026 02:46:07.334] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[13Jan2026 02:46:07.338] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[13Jan2026 02:46:07.338] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[13Jan2026 02:46:07.376] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[13Jan2026 02:46:07.385] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:46:07.544] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[13Jan2026 02:46:07.869] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[13Jan2026 02:46:07.964] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[13Jan2026 02:46:07.964] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[13Jan2026 02:46:08.256] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[13Jan2026 02:46:08.283] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[13Jan2026 02:46:08.379] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[13Jan2026 02:46:08.379] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[13Jan2026 02:46:08.379] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[13Jan2026 02:46:08.379] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[13Jan2026 02:46:08.380] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[13Jan2026 02:46:08.382] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[13Jan2026 02:46:08.534] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[13Jan2026 02:46:08.757] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[13Jan2026 02:46:08.767] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=-48, z=-763}
+[13Jan2026 02:46:08.767] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-248, y=-48, z=-763}
+[13Jan2026 02:46:08.767] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=-48, z=-763}
+[13Jan2026 02:46:09.363] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[13Jan2026 02:46:09.409] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:09.804] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[13Jan2026 02:46:09.804] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[13Jan2026 02:46:09.823] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[13Jan2026 02:46:09.823] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[13Jan2026 02:46:09.829] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:46:09.829] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:46:09.874] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[13Jan2026 02:46:09.874] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[13Jan2026 02:46:09.874] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[13Jan2026 02:46:09.877] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:09.924] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:46:09.940] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[13Jan2026 02:46:09.940] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[13Jan2026 02:46:09.967] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[13Jan2026 02:46:09.967] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:09.979] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[13Jan2026 02:46:09.979] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[13Jan2026 02:46:09.979] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[13Jan2026 02:46:09.979] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[13Jan2026 02:46:09.980] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[13Jan2026 02:46:09.980] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[13Jan2026 02:46:09.980] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:46:10.160] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[13Jan2026 02:46:10.161] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[13Jan2026 02:46:10.161] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[13Jan2026 02:46:10.161] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[13Jan2026 02:46:10.209] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:46:10.213] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[13Jan2026 02:46:10.368] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[13Jan2026 02:46:10.444] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[13Jan2026 02:46:10.444] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[13Jan2026 02:46:10.444] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[13Jan2026 02:46:10.460] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:10.469] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-233, y=-48, z=-763}
+[13Jan2026 02:46:10.469] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:46:10.469] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[13Jan2026 02:46:10.472] [Worker-Main-4/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[13Jan2026 02:46:11.208] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[13Jan2026 02:46:11.208] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[13Jan2026 02:46:11.208] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[13Jan2026 02:46:11.209] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[13Jan2026 02:46:11.209] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[13Jan2026 02:46:11.209] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[13Jan2026 02:46:11.221] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[13Jan2026 02:46:11.252] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[13Jan2026 02:46:11.252] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[13Jan2026 02:46:11.273] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:11.299] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[13Jan2026 02:46:11.311] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-53, z=-786}
+[13Jan2026 02:46:11.311] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-787}
+[13Jan2026 02:46:11.311] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-58, z=-785}
+[13Jan2026 02:46:11.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Welcome To The Machine]
+[13Jan2026 02:46:11.401] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=-52, z=-702}
+[13Jan2026 02:46:11.447] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[13Jan2026 02:46:11.448] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[13Jan2026 02:46:11.448] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[13Jan2026 02:46:11.448] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[13Jan2026 02:46:11.448] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[13Jan2026 02:46:11.476] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-407, y=-57, z=-497}
+[13Jan2026 02:46:11.476] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.602844f,range:8,source:{pos:[I;-404,-59,-499],type:"minecraft:block"}}]
+[13Jan2026 02:46:11.476] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[13Jan2026 02:46:11.477] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-346, y=-57, z=-497}
+[13Jan2026 02:46:11.479] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-497}
+[13Jan2026 02:46:11.485] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-53, z=-786}
+[13Jan2026 02:46:11.485] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-58, z=-785}
+[13Jan2026 02:46:11.485] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-278, y=-58, z=-787}
+[13Jan2026 02:46:11.486] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-593}
+[13Jan2026 02:46:11.521] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-213, y=-52, z=-702}
+[13Jan2026 02:46:11.554] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[13Jan2026 02:46:11.554] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[13Jan2026 02:46:11.580] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[13Jan2026 02:46:11.580] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[13Jan2026 02:46:11.653] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[13Jan2026 02:46:11.675] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-56, z=-571}
+[13Jan2026 02:46:11.684] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-247, y=-56, z=-608}
+[13Jan2026 02:46:11.685] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:11.694] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[13Jan2026 02:46:11.695] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:11.718] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:11.718] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:11.719] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-559}
+[13Jan2026 02:46:11.719] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[13Jan2026 02:46:11.721] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-409, y=-57, z=-497}
+[13Jan2026 02:46:11.722] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-57, z=-496}
+[13Jan2026 02:46:11.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[13Jan2026 02:46:11.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[13Jan2026 02:46:11.732] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:11.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-552}
+[13Jan2026 02:46:11.736] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-51, z=-552}
+[13Jan2026 02:46:11.740] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[13Jan2026 02:46:11.822] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[13Jan2026 02:46:11.822] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[13Jan2026 02:46:11.829] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:11.838] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:11.838] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:11.847] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[13Jan2026 02:46:11.847] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[13Jan2026 02:46:11.855] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[13Jan2026 02:46:11.855] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[13Jan2026 02:46:11.855] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[13Jan2026 02:46:11.855] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[13Jan2026 02:46:11.875] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:11.895] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[13Jan2026 02:46:11.896] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:11.901] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[13Jan2026 02:46:11.901] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:11.903] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[13Jan2026 02:46:11.903] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[13Jan2026 02:46:12.255] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:12.345] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[13Jan2026 02:46:12.345] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[13Jan2026 02:46:13.169] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[13Jan2026 02:46:13.169] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[13Jan2026 02:46:13.220] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[13Jan2026 02:46:13.221] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[13Jan2026 02:46:13.221] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[13Jan2026 02:46:13.221] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[13Jan2026 02:46:13.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: willi_pollas moved too quickly! -0.7049595218779814,-10.133016341127743,-0.6369169229296858
+[13Jan2026 02:46:13.520] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[13Jan2026 02:46:13.570] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=-52, z=-702}
+[13Jan2026 02:46:13.580] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[13Jan2026 02:46:13.596] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:13.598] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-406, y=-57, z=-496}
+[13Jan2026 02:46:13.897] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[13Jan2026 02:46:13.932] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[13Jan2026 02:46:13.932] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[13Jan2026 02:46:14.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas fell from a high place
+[13Jan2026 02:46:14.532] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 02:46:19.543] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-221, y=-52, z=-702}
+[13Jan2026 02:46:19.558] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-51, z=-611}
+[13Jan2026 02:46:19.558] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-50, z=-610}
+[13Jan2026 02:46:19.604] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-503}
+[13Jan2026 02:46:19.646] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[13Jan2026 02:46:19.656] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[13Jan2026 02:46:19.665] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[13Jan2026 02:46:19.854] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[13Jan2026 02:46:19.854] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[13Jan2026 02:46:19.880] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[13Jan2026 02:46:19.880] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[13Jan2026 02:46:19.881] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[13Jan2026 02:46:19.881] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[13Jan2026 02:46:19.956] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[13Jan2026 02:46:19.956] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[13Jan2026 02:46:19.956] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[13Jan2026 02:46:19.957] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[13Jan2026 02:46:19.973] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-56, z=-754}
+[13Jan2026 02:46:20.038] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[13Jan2026 02:46:20.038] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[13Jan2026 02:46:20.038] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[13Jan2026 02:46:20.038] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[13Jan2026 02:46:20.041] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=-57, z=-597}
+[13Jan2026 02:46:20.058] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[13Jan2026 02:46:20.058] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[13Jan2026 02:46:20.058] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[13Jan2026 02:46:20.058] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[13Jan2026 02:46:20.058] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[13Jan2026 02:46:20.059] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[13Jan2026 02:46:20.059] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[13Jan2026 02:46:20.073] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[13Jan2026 02:46:20.074] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[13Jan2026 02:46:20.074] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[13Jan2026 02:46:20.074] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[13Jan2026 02:46:20.074] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[13Jan2026 02:46:20.074] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[13Jan2026 02:46:20.074] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[13Jan2026 02:46:20.078] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=-58, z=-499}
+[13Jan2026 02:46:20.092] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-753}
+[13Jan2026 02:46:20.092] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-751}
+[13Jan2026 02:46:33.231] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[13Jan2026 02:46:33.231] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[13Jan2026 02:46:33.287] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=-58, z=-502}
+[13Jan2026 02:46:33.301] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-52, z=-425}
+[13Jan2026 02:46:33.301] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-422}
+[13Jan2026 02:46:33.322] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[13Jan2026 02:46:33.323] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-350, y=-58, z=-499}
+[13Jan2026 02:46:33.323] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=-58, z=-499}
+[13Jan2026 02:46:33.333] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-422, y=-52, z=-391}
+[13Jan2026 02:46:33.335] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:46:33.347] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-755}
+[13Jan2026 02:46:33.580] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[13Jan2026 02:46:33.581] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[13Jan2026 02:46:33.581] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[13Jan2026 02:46:33.607] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-404, y=-52, z=-397}
+[13Jan2026 02:46:33.607] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-400, y=-52, z=-394}
+[13Jan2026 02:46:33.610] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-58, z=-502}
+[13Jan2026 02:46:33.625] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[13Jan2026 02:46:33.626] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[13Jan2026 02:46:33.638] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-52, z=-419}
+[13Jan2026 02:46:33.638] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-424, y=-52, z=-422}
+[13Jan2026 02:46:33.658] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-753}
+[13Jan2026 02:46:33.658] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-55, z=-752}
+[13Jan2026 02:46:33.659] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-403, y=-58, z=-497}
+[13Jan2026 02:46:33.772] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[13Jan2026 02:46:33.772] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[13Jan2026 02:46:33.782] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-410, y=-52, z=-426}
+[13Jan2026 02:46:33.782] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-414, y=-52, z=-427}
+[13Jan2026 02:46:34.494] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=-51, z=-548}
+[13Jan2026 02:46:34.495] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-54, z=-542}
+[13Jan2026 02:46:34.495] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-361, y=-53, z=-542}
+[13Jan2026 02:46:34.567] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-753}
+[13Jan2026 02:46:34.567] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-56, z=-754}
+[13Jan2026 02:46:34.567] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-753}
+[13Jan2026 02:46:34.567] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-56, z=-755}
+[13Jan2026 02:46:34.568] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-323, y=-57, z=-751}
+[13Jan2026 02:46:34.568] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-322, y=-55, z=-752}
+[13Jan2026 02:46:35.497] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-418}
+[13Jan2026 02:46:35.497] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-395, y=-52, z=-416}
+[13Jan2026 02:46:35.511] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[13Jan2026 02:46:35.511] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[13Jan2026 02:46:35.525] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-404}
+[13Jan2026 02:46:35.525] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-432, y=-52, z=-402}
+[13Jan2026 02:46:35.869] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-407}
+[13Jan2026 02:46:35.870] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-396, y=-52, z=-409}
+[13Jan2026 02:46:35.870] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-394, y=-52, z=-409}
+[13Jan2026 02:46:35.870] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-408}
+[13Jan2026 02:46:35.870] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-399, y=-52, z=-395}
+[13Jan2026 02:46:35.870] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-393, y=-52, z=-400}
+[13Jan2026 02:46:35.887] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[13Jan2026 02:46:35.888] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[13Jan2026 02:46:35.888] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[13Jan2026 02:46:35.888] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[13Jan2026 02:46:35.901] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-427, y=-52, z=-408}
+[13Jan2026 02:46:35.901] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-407}
+[13Jan2026 02:46:35.901] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-429, y=-52, z=-408}
+[13Jan2026 02:46:35.901] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-428, y=-52, z=-409}
+[13Jan2026 02:46:58.819] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: No starting jigsaw fdbosses:malkuth_arena_part_1 found in start pool fdbosses:malkuth_arena
+[13Jan2026 02:47:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has reached the goal [Die Classy]
+[13Jan2026 02:48:53.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Welcome To The Machine]
+[13Jan2026 02:53:44.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274667, l='ServerLevel[world]', x=1140.83, y=275.00, z=8722.54] died: Gearling was slain by Wolsito
+[13Jan2026 02:53:46.016] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/274778, l='ServerLevel[world]', x=1143.79, y=275.00, z=8723.75] died: Gearling was slain by Wolsito
+[13Jan2026 02:53:52.423] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275026, l='ServerLevel[world]', x=1143.36, y=275.00, z=8723.37] died: Gearling was slain by Wolsito
+[13Jan2026 02:53:54.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275271, l='ServerLevel[world]', x=1140.98, y=275.00, z=8724.59] died: Gearling was burnt to a crisp whilst fighting Wolsito
+[13Jan2026 02:53:54.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275379, l='ServerLevel[world]', x=1143.38, y=275.00, z=8723.67] died: Gearling was slain by Wolsito
+[13Jan2026 02:53:55.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273360, l='ServerLevel[world]', x=1142.95, y=275.00, z=8724.73] died: Gearling was slain by Wolsito
+[13Jan2026 02:54:05.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275649, l='ServerLevel[world]', x=1140.83, y=275.00, z=8723.78] died: Gearling was slain by Wolsito
+[13Jan2026 02:54:07.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275871, l='ServerLevel[world]', x=1141.33, y=275.00, z=8723.48] died: Gearling was burnt to a crisp whilst fighting Wolsito
+[13Jan2026 02:54:09.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/273519, l='ServerLevel[world]', x=1139.67, y=275.00, z=8723.49] died: Gearling was burnt to a crisp whilst fighting Wolsito
+[13Jan2026 02:54:19.952] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275747, l='ServerLevel[world]', x=1143.19, y=275.00, z=8724.99] died: Gearling was burnt to a crisp whilst fighting Wolsito
+[13Jan2026 02:54:21.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276006, l='ServerLevel[world]', x=1141.84, y=275.00, z=8724.49] died: Gearling was burnt to a crisp whilst fighting Wolsito
+[13Jan2026 02:54:21.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276441, l='ServerLevel[world]', x=1142.10, y=275.00, z=8723.48] died: Gearling was burnt to a crisp whilst fighting Wolsito
+[13Jan2026 02:54:23.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/275813, l='ServerLevel[world]', x=1145.12, y=275.00, z=8725.44] died: Gearling was slain by Wolsito
+[13Jan2026 02:54:24.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276560, l='ServerLevel[world]', x=1145.92, y=275.00, z=8724.06] died: Gearling was burnt to a crisp whilst fighting Wolsito
+[13Jan2026 02:54:26.073] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276070, l='ServerLevel[world]', x=1145.04, y=275.00, z=8724.82] died: Gearling was slain by Wolsito
+[13Jan2026 02:54:27.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276668, l='ServerLevel[world]', x=1145.37, y=275.00, z=8724.07] died: Gearling was slain by Wolsito
+[13Jan2026 02:54:28.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/277007, l='ServerLevel[world]', x=1144.74, y=275.00, z=8722.85] died: Gearling was slain by Wolsito
+[13Jan2026 02:54:42.521] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/276313, l='ServerLevel[world]', x=1124.67, y=256.00, z=8729.60] died: Gearling fell from a high place
+[13Jan2026 02:56:32.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Ambush]
+[13Jan2026 02:56:41.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has reached the goal [Strong or Careful]
+[13Jan2026 02:56:41.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC was blown up by Creeper
+[13Jan2026 02:56:41.897] [Server thread/INFO] [tombstone/]: The player COSMI_KC has successfully been saved
+[13Jan2026 02:56:58.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/280454, l='ServerLevel[world]', x=1139.94, y=246.00, z=8712.85] died: Gearling went off with a bang
+[13Jan2026 03:00:21.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas has made the advancement [Penteconter]
+[13Jan2026 03:01:20.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Where Is The Stone Pen?]
+[13Jan2026 03:02:07.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has reached the goal [Greed may lead to loss]
+[13Jan2026 03:02:29.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas has made the advancement [Good Demoman]
+[13Jan2026 03:02:30.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was shot by Missionary
+[13Jan2026 03:02:31.052] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:02:47.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was shot by Missionary
+[13Jan2026 03:02:47.592] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:03:03.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> OOCROO ANDA DUPLICANDO
+[13Jan2026 03:03:07.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> WILLIAM BANEALO
+[13Jan2026 03:03:15.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Zombie Bruiser
+[13Jan2026 03:03:15.639] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:03:41.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> BOTALO
+[13Jan2026 03:03:46.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> DUPLICA SUS MALETAS CON COSAS
+[13Jan2026 03:03:59.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> me mori y se duplico
+[13Jan2026 03:04:03.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Zombie Bruiser
+[13Jan2026 03:04:03.533] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:05:31.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Dread Hound
+[13Jan2026 03:05:32.238] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:06:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has completed the challenge [Socialised Loot]
+[13Jan2026 03:06:20.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has made the advancement [Tunnel Treasures]
+[13Jan2026 03:07:17.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was turned into KFC by Fire Dragon
+[13Jan2026 03:07:21.711] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:07:21.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4728ms or 94 ticks behind
+[13Jan2026 03:07:39.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
+[13Jan2026 03:08:20.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC has made the advancement [Magic Writing]
+[13Jan2026 03:09:09.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Fire Dragon
+[13Jan2026 03:09:10.340] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:09:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> te mutaw
+[13Jan2026 03:09:41.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> mute
+[13Jan2026 03:09:50.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Zombie Bruiser
+[13Jan2026 03:09:50.950] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:10:39.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was slain by Fire Dragon
+[13Jan2026 03:10:39.317] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:10:52.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas was turned into KFC by Fire Dragon
+[13Jan2026 03:10:52.917] [Server thread/INFO] [tombstone/]: The player willi_pollas has successfully been saved
+[13Jan2026 03:11:11.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <COSMI_KC> psa cords polla
+[13Jan2026 03:11:14.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas has made the advancement [Dragonslayer]
+[13Jan2026 03:12:13.496] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 531487eb-9e15-3acb-a345-55b66b8ef090 timed out
+[13Jan2026 03:12:13.496] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player COSMI_KC
+[13Jan2026 03:12:13.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to COSMI_KC
+[13Jan2026 03:12:23.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: COSMI_KC lost connection: Timed out
+[13Jan2026 03:12:23.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: COSMI_KC left the game
+[13Jan2026 03:12:23.472] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client COSMI_KC
+[13Jan2026 03:12:49.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 64215eca-97bf-3120-a4a2-e1295c78a502 timed out
+[13Jan2026 03:12:49.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player willi_pollas
+[13Jan2026 03:12:49.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to willi_pollas
+[13Jan2026 03:13:08.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: willi_pollas lost connection: Timed out
+[13Jan2026 03:13:08.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas left the game
+[13Jan2026 03:13:08.952] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client willi_pollas
+[13Jan2026 03:15:26.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Wolsito moved too quickly! -1.904642075348761,-106.0,-2.9852572301562077
+[13Jan2026 03:15:44.040] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/299918, l='ServerLevel[world]', x=-787.74, y=97.25, z=-790.57] died, message: 'Librarian was slain by Zombie Villager'
+[13Jan2026 03:16:03.491] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/299927, l='ServerLevel[world]', x=-813.36, y=110.00, z=-795.32] died, message: 'Villager was slain by Zombie'
+[13Jan2026 03:16:42.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Wolsito has reached the goal [Dark Creator]
+[13Jan2026 03:17:16.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: willi_pollas[/127.68.217.12:38659] logged in with entity id 300841 at (-901.260803856337, 90.17675927506424, -835.974202053511)
+[13Jan2026 03:17:16.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: willi_pollas joined the game
+[13Jan2026 03:17:21.581] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of willi_pollas (20)
+[13Jan2026 03:17:21.581] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to willi_pollas
+[13Jan2026 03:17:41.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> oe hay que hacer concurso de casas
+[13Jan2026 03:17:48.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> tienes que quitar el mod de mochilas ese
+[13Jan2026 03:17:51.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Wolsito> hace que duplique cosas
+[13Jan2026 03:18:11.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 03:18:12.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 64215eca-97bf-3120-a4a2-e1295c78a502
+[13Jan2026 03:18:12.780] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player willi_pollas (64215eca-97bf-3120-a4a2-e1295c78a502) successfully connected to voice chat

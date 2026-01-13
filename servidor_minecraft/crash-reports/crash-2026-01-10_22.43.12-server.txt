@@ -1,0 +1,669 @@
+---- Minecraft Crash Report ----
+
+// Hi. I'm Connector, and I'm a crashaholic
+=========================
+SINYTRA CONNECTOR IS PRESENT!
+Please verify issues are not caused by Connector before reporting them to mod authors.
+If you're unsure, file a report on Connector's issue tracker found at https://github.com/Sinytra/Connector/issues.
+=========================
+
+// Everything's going to plan. No, really, that was supposed to happen.
+
+Time: 2026-01-10 22:43:12
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:?] {re:mixin}
+	at java.io.FileOutputStream.write(FileOutputStream.java:349) ~[?:?] {re:mixin}
+	at sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:234) ~[?:?] {}
+	at sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:313) ~[?:?] {}
+	at sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:318) ~[?:?] {}
+	at sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:160) ~[?:?] {}
+	at java.io.OutputStreamWriter.flush(OutputStreamWriter.java:248) ~[?:?] {}
+	at java.io.PrintWriter.flush(PrintWriter.java:396) ~[?:?] {}
+	at org.jline.terminal.impl.AbstractTerminal.flush(AbstractTerminal.java:159) ~[jline-terminal-3.12.1.jar%2364!/:?] {}
+	at org.jline.utils.Display.update(Display.java:331) ~[jline-terminal-3.12.1.jar%2364!/:?] {}
+	at org.jline.utils.Display.update(Display.java:99) ~[jline-terminal-3.12.1.jar%2364!/:?] {}
+	at org.jline.reader.impl.LineReaderImpl.printAbove(LineReaderImpl.java:695) ~[jline-reader-3.12.1.jar%2363!/:?] {}
+	at net.minecrell.terminalconsole.TerminalConsoleAppender.print(TerminalConsoleAppender.java:260) ~[terminalconsoleappender-1.2.0.jar%2362!/:?] {}
+	at net.minecrell.terminalconsole.TerminalConsoleAppender.append(TerminalConsoleAppender.java:253) ~[terminalconsoleappender-1.2.0.jar%2362!/:?] {}
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:161) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:134) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:125) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:89) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:683) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:641) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:624) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.logParent(LoggerConfig.java:674) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:643) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:624) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:560) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:82) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.Logger.log(Logger.java:162) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2205) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2159) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2142) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2040) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:1907) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.slf4j.Log4jLogger.warn(Log4jLogger.java:245) ~[log4j-slf4j2-impl-2.19.0.jar%2397!/:2.19.0] {}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:648) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin from mod citadel,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin from mod balm,pl:mixin:APP:connectormod.mixins.json:registries.MinecraftServerMixin from mod connectormod,pl:mixin:APP:fabric-lifecycle-events-v1.mixins.json:MinecraftServerMixin from mod fabric_lifecycle_events_v1,pl:mixin:APP:fabric-resource-loader-v0.mixins.json:MinecraftServerMixin from mod fabric_resource_loader_v0,pl:mixin:APP:fabric-message-api-v1.mixins.json:MinecraftServerMixin from mod fabric_message_api_v1,pl:mixin:A,pl:connector_pre_launch:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin from mod citadel,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin from mod balm,pl:mixin:APP:connectormod.mixins.json:registries.MinecraftServerMixin from mod connectormod,pl:mixin:APP:fabric-lifecycle-events-v1.mixins.json:MinecraftServerMixin from mod fabric_lifecycle_events_v1,pl:mixin:APP:fabric-resource-loader-v0.mixins.json:MinecraftServerMixin from mod fabric_resource_loader_v0,pl:mixin:APP:fabric-message-api-v1.mixins.json:MinecraftServerMixin from mod fabric_message_api_v1,pl:mixin:A,pl:connector_pre_launch:A}
+	at net.minecraft.server.MinecraftServer$$Lambda$23524/0x00007d1f8ae091b0.run(Unknown Source) ~[?:?] {}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Suspected Mods: NONE
+Stacktrace:
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:?] {re:mixin}
+	at java.io.FileOutputStream.write(FileOutputStream.java:349) ~[?:?] {re:mixin}
+	at sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:234) ~[?:?] {}
+	at sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:313) ~[?:?] {}
+	at sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:318) ~[?:?] {}
+	at sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:160) ~[?:?] {}
+	at java.io.OutputStreamWriter.flush(OutputStreamWriter.java:248) ~[?:?] {}
+	at java.io.PrintWriter.flush(PrintWriter.java:396) ~[?:?] {}
+	at org.jline.terminal.impl.AbstractTerminal.flush(AbstractTerminal.java:159) ~[jline-terminal-3.12.1.jar%2364!/:?] {}
+	at org.jline.utils.Display.update(Display.java:331) ~[jline-terminal-3.12.1.jar%2364!/:?] {}
+	at org.jline.utils.Display.update(Display.java:99) ~[jline-terminal-3.12.1.jar%2364!/:?] {}
+	at org.jline.reader.impl.LineReaderImpl.printAbove(LineReaderImpl.java:695) ~[jline-reader-3.12.1.jar%2363!/:?] {}
+	at net.minecrell.terminalconsole.TerminalConsoleAppender.print(TerminalConsoleAppender.java:260) ~[terminalconsoleappender-1.2.0.jar%2362!/:?] {}
+	at net.minecrell.terminalconsole.TerminalConsoleAppender.append(TerminalConsoleAppender.java:253) ~[terminalconsoleappender-1.2.0.jar%2362!/:?] {}
+	at org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:161) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:134) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:125) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:89) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:683) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:641) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:624) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.logParent(LoggerConfig.java:674) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:643) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:624) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:560) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:82) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.core.Logger.log(Logger.java:162) ~[log4j-core-2.19.0.jar%2396!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2205) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2159) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2142) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2040) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:1907) ~[log4j-api-2.19.0.jar%2395!/:2.19.0] {}
+	at org.apache.logging.slf4j.Log4jLogger.warn(Log4jLogger.java:245) ~[log4j-slf4j2-impl-2.19.0.jar%2397!/:2.19.0] {}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:648) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin from mod citadel,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin from mod balm,pl:mixin:APP:connectormod.mixins.json:registries.MinecraftServerMixin from mod connectormod,pl:mixin:APP:fabric-lifecycle-events-v1.mixins.json:MinecraftServerMixin from mod fabric_lifecycle_events_v1,pl:mixin:APP:fabric-resource-loader-v0.mixins.json:MinecraftServerMixin from mod fabric_resource_loader_v0,pl:mixin:APP:fabric-message-api-v1.mixins.json:MinecraftServerMixin from mod fabric_message_api_v1,pl:mixin:A,pl:connector_pre_launch:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?] {re:mixin,pl:accesstransformer:B,pl:connector_pre_launch:A,re:computing_frames,pl:accesstransformer:B,pl:connector_pre_launch:A,re:classloading,pl:accesstransformer:B,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin from mod citadel,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin from mod balm,pl:mixin:APP:connectormod.mixins.json:registries.MinecraftServerMixin from mod connectormod,pl:mixin:APP:fabric-lifecycle-events-v1.mixins.json:MinecraftServerMixin from mod fabric_lifecycle_events_v1,pl:mixin:APP:fabric-resource-loader-v0.mixins.json:MinecraftServerMixin from mod fabric_resource_loader_v0,pl:mixin:APP:fabric-message-api-v1.mixins.json:MinecraftServerMixin from mod fabric_message_api_v1,pl:mixin:A,pl:connector_pre_launch:A}
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
+	at java.base@17.0.17/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@17.0.17/java.lang.ref.Reference.processPendingReferences(Reference.java:253)
+	at java.base@17.0.17/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+
+
+"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@5e4f309c
+	at java.base@17.0.17/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@5e4f309c
+	at java.base@17.0.17/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.17/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.base@17.0.17/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:172)
+
+
+"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=11 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@5088c525
+	at java.base@17.0.17/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@5088c525
+	at java.base@17.0.17/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.17/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+	at java.base@17.0.17/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:162)
+
+
+"Notification Thread" daemon prio=9 Id=12 RUNNABLE
+
+
+"JNA Cleaner" daemon prio=5 Id=22 WAITING on java.lang.ref.ReferenceQueue$Lock@54b75bec
+	at java.base@17.0.17/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@54b75bec
+	at java.base@17.0.17/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@17.0.17/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at MC-BOOTSTRAP/com.sun.jna@5.12.1/com.sun.jna.internal.Cleaner$1.run(Cleaner.java:58)
+
+
+"Timer hack thread" daemon prio=5 Id=23 TIMED_WAITING
+	at java.base@17.0.17/java.lang.Thread.sleep(Native Method)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.Util$9.run(Util.java:672)
+
+
+"ConfigSaver" daemon prio=5 Id=24 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@11b5cf1e
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@11b5cf1e
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+	...
+
+
+"FileSystemWatchService" daemon prio=5 Id=25 RUNNABLE (in native)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"Auto-Sync thread" daemon prio=5 Id=26 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3659c664
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@3659c664
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1679)
+	at java.base@17.0.17/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@17.0.17/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	...
+
+
+"Thread-5" daemon prio=5 Id=32 TIMED_WAITING
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:376)
+	at MC-BOOTSTRAP/com.electronwill.nightconfig.core@3.6.4/com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:190)
+
+
+"FileSystemWatchService" daemon prio=5 Id=33 RUNNABLE (in native)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"FileSystemWatchService" daemon prio=5 Id=37 RUNNABLE (in native)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"ConfigSaver" daemon prio=5 Id=39 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@206e9c67
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@206e9c67
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+	...
+
+
+"ConfigSaver" daemon prio=5 Id=42 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@4e68cbbd
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@4e68cbbd
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+	...
+
+
+"Yggdrasil Key Fetcher" daemon prio=5 Id=45 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@719a3051
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@719a3051
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1679)
+	at java.base@17.0.17/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:1182)
+	at java.base@17.0.17/java.util.concurrent.ScheduledThreadPoolExecutor$DelayedWorkQueue.take(ScheduledThreadPoolExecutor.java:899)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1122)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	...
+
+
+"Worker-Main-2" daemon prio=5 Id=49 WAITING on java.util.concurrent.ForkJoinPool@988b2e0
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@988b2e0
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Server thread" prio=5 Id=54 RUNNABLE
+	at java.base@17.0.17/java.io.FileOutputStream.writeBytes(Native Method)
+	at java.base@17.0.17/java.io.FileOutputStream.write(FileOutputStream.java:349)
+	at java.base@17.0.17/sun.nio.cs.StreamEncoder.writeBytes(StreamEncoder.java:234)
+	at java.base@17.0.17/sun.nio.cs.StreamEncoder.implFlushBuffer(StreamEncoder.java:313)
+	at java.base@17.0.17/sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:318)
+	at java.base@17.0.17/sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:160)
+	-  locked java.io.OutputStreamWriter@5d519a12
+	at java.base@17.0.17/java.io.OutputStreamWriter.flush(OutputStreamWriter.java:248)
+	at java.base@17.0.17/java.io.PrintWriter.flush(PrintWriter.java:396)
+	-  locked java.io.OutputStreamWriter@5d519a12
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@556c8726
+
+
+"DestroyJavaVM" prio=5 Id=56 RUNNABLE
+
+
+"Server console handler" daemon prio=5 Id=57 RUNNABLE
+	at java.base@17.0.17/java.io.FileInputStream.read0(Native Method)
+	at java.base@17.0.17/java.io.FileInputStream.read(FileInputStream.java:228)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168)
+	at MC-BOOTSTRAP/jline.terminal@3.12.1/org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+	at MC-BOOTSTRAP/jline.reader@3.12.1/org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
+	at MC-BOOTSTRAP/jline.reader@3.12.1/org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+	...
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=58 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"FileSystemWatchService" daemon prio=5 Id=59 RUNNABLE (in native)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"FileSystemWatchService" daemon prio=5 Id=60 RUNNABLE (in native)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService.poll(Native Method)
+	at java.base@17.0.17/sun.nio.fs.LinuxWatchService$Poller.run(LinuxWatchService.java:314)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"Server Watchdog" daemon prio=5 Id=68 RUNNABLE
+	at java.management@17.0.17/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@17.0.17/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:528)
+	at java.management@17.0.17/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:516)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:41)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"LanServerPinger #1" daemon prio=5 Id=69 TIMED_WAITING
+	at java.base@17.0.17/java.lang.Thread.sleep(Native Method)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.client.server.LanServerPinger.run(LanServerPinger.java:48)
+
+
+"VoiceChatPacketProcessingThread" daemon prio=5 Id=71 TIMED_WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@75d42d62
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@75d42d62
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:1679)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:460)
+	at TRANSFORMER/voicechat@1.20.1-2.6.11/de.maxhenkel.voicechat.voice.server.Server$ProcessThread.run(Server.java:262)
+
+
+"VoiceChatServerThread" daemon prio=5 Id=70 RUNNABLE (in native)
+	at java.base@17.0.17/sun.nio.ch.DatagramChannelImpl.receive0(Native Method)
+	at java.base@17.0.17/sun.nio.ch.DatagramChannelImpl.receiveIntoNativeBuffer(DatagramChannelImpl.java:750)
+	at java.base@17.0.17/sun.nio.ch.DatagramChannelImpl.receive(DatagramChannelImpl.java:728)
+	at java.base@17.0.17/sun.nio.ch.DatagramChannelImpl.trustedBlockingReceive(DatagramChannelImpl.java:666)
+	at java.base@17.0.17/sun.nio.ch.DatagramChannelImpl.blockingReceive(DatagramChannelImpl.java:635)
+	at java.base@17.0.17/sun.nio.ch.DatagramSocketAdaptor.receive(DatagramSocketAdaptor.java:240)
+	at java.base@17.0.17/java.net.DatagramSocket.receive(DatagramSocket.java:700)
+	at TRANSFORMER/voicechat@1.20.1-2.6.11/de.maxhenkel.voicechat.plugins.impl.VoicechatSocketBase.read(VoicechatSocketBase.java:13)
+	...
+
+	Number of locked synchronizers = 1
+	- java.util.concurrent.locks.ReentrantLock$NonfairSync@39879e8a
+
+
+"Netty Epoll Server IO #1" daemon prio=5 Id=72 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #2" daemon prio=5 Id=73 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #3" daemon prio=5 Id=74 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"AN stolen Minecolonies Pathfinding Worker #0" daemon prio=5 Id=84 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@68d702a2
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@68d702a2
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:485)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:673)
+	...
+
+
+"Ice and Fire Pathfinding Worker #0" daemon prio=10 Id=86 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@59b3ed29
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@59b3ed29
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:485)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:673)
+	...
+
+
+"Citadel Pathfinding Worker #0" daemon prio=10 Id=90 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@d586440
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@d586440
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingDeque.takeFirst(LinkedBlockingDeque.java:485)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingDeque.take(LinkedBlockingDeque.java:673)
+	...
+
+
+"Netty Epoll Server IO #4" daemon prio=5 Id=91 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #5" daemon prio=5 Id=96 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"Netty Epoll Server IO #6" daemon prio=5 Id=97 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"Tombstone Backup Thread" prio=5 Id=100 WAITING on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@8aed8af
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject@8aed8af
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:506)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.unmanagedBlock(ForkJoinPool.java:3465)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3436)
+	at java.base@17.0.17/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1630)
+	at java.base@17.0.17/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435)
+	at java.base@17.0.17/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1062)
+	...
+
+
+"Netty Epoll Server IO #7" daemon prio=5 Id=103 RUNNABLE (in native)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native Method)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:209)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.Native.epollWait(Native.java:202)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.epollWaitNoTimerChange(EpollEventLoop.java:306)
+	at MC-BOOTSTRAP/io.netty.transport.classes.epoll@4.1.82.Final/io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:363)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at MC-BOOTSTRAP/io.netty.common@4.1.82.Final/io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base@17.0.17/java.lang.Thread.run(Thread.java:840)
+
+
+"Worker-Main-42" daemon prio=5 Id=116 WAITING on java.util.concurrent.ForkJoinPool@988b2e0
+	at java.base@17.0.17/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@988b2e0
+	at java.base@17.0.17/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.awaitWork(ForkJoinPool.java:1724)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1623)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+
+"Worker-Main-43" daemon prio=5 Id=117 RUNNABLE
+	at java.base@17.0.17/java.util.concurrent.ForkJoinPool.registerWorker(ForkJoinPool.java:1497)
+	at java.base@17.0.17/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:163)
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ServerWatchdog.run(ServerWatchdog.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?] {re:classloading,pl:connector_pre_launch:A}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin}
+
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 0, entities: 278,257,155,970,884,0,86 [minecraft:creeper:21,alexsmobs:lobster:21,minecraft:item:20,minecraft:skeleton:14,alexsmobs:gazelle:11], block_entities: 324 [iceandfire:pixie_house:83,minecraft:mob_spawner:60,minecraft:campfire:58,minecraft:furnace:27,minecraft:blast_furnace:25], block_ticks: 7862, fluid_ticks: 205, chunk_source: Chunks[S] W: 4234 E: 278,233,155,970,736,0,234,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / threateningly_mobs:distortion_dimension]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0,
+ResourceKey[minecraft:dimension / wraithon:sanctum_of_the_wraithon]: players: 0, entities: 0,0,0,0,0,0,0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: Chunks[S] W: 0 E: 0,0,0,0,0,0,0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.1
+	Minecraft Version ID: 1.20.1
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 17.0.17, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1058149392 bytes (1009 MiB) / 4362076160 bytes (4160 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 7997.99
+	Virtual memory used (MB): 7808.14
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	Server Running: true
+	Player Count: 0 / 20; []
+	Data Packs: vanilla, mod:forge, mod:hexerei (incompatible), mod:camping (incompatible), mod:kuma_api, mod:fabric_renderer_api_v1, mod:trinkets, mod:playeranimator (incompatible), mod:fabric_item_api_v1, mod:fabric_rendering_fluids_v1, mod:cardinal_components_entity, mod:fabric_models_v0, mod:fabric_convention_tags_v1, mod:citadel (incompatible), mod:alexsmobs (incompatible), mod:fabric_command_api_v1, mod:fabric_block_view_api_v2, mod:fabric_command_api_v2, mod:fabric_data_attachment_api_v1, mod:royalvariations, mod:relics, mod:balm, mod:fabric_screen_api_v1, mod:paraglider (incompatible), mod:cloth_config (incompatible), mod:fabric_api, mod:fabric_content_registries_v0, mod:fabric_game_rule_api_v1, mod:fabric_api_lookup_api_v1, mod:endrem (incompatible), mod:eeeabsmobs, mod:lionfishapi (incompatible), mod:audioplayer, mod:cataclysm (incompatible), mod:curios (incompatible), mod:connectormod, mod:tombstone, mod:fabric_entity_events_v1, mod:cardinal_components_base, mod:architectury (incompatible), mod:fabric_loot_api_v2, mod:fabric_rendering_data_attachment_v1, mod:celestisynth, mod:fabric_networking_api_v1, mod:fabric_lifecycle_events_v1, mod:fabric_key_binding_api_v1, mod:fabric_client_tags_api_v1, mod:fabric_dimensions_v1, mod:fabric_transfer_api_v1, mod:mowziesmobs, mod:geckolib, mod:octolib, mod:fabric_model_loading_api_v1, mod:fabric_screen_handler_api_v1, mod:fabric_resource_loader_v0, mod:caelus (incompatible), mod:obscure_api, mod:fabric_rendering_v1, mod:waystones, mod:fabric_renderer_indigo, mod:epicfight, mod:fabric_mining_level_api_v1, mod:artifacts, mod:admiral, mod:iceandfire, mod:ars_nouveau (incompatible), mod:fabric_particles_v1, mod:fabric_transitive_access_wideners_v1, mod:dungeons_arise, mod:dungeons_and_combat, mod:block_factorys_bosses, mod:born_in_chaos_v1, mod:mizs_broom, mod:alexscaves, mod:voicechat (incompatible), mod:moonlight (incompatible), mod:fabric_api_base, mod:fabric_blockrenderlayer_v1, mod:fabric_block_api_v1, mod:fabric_resource_conditions_api_v1, mod:reliquary (incompatible), mod:fabric_item_group_api_v1, mod:irons_spellbooks, mod:fabric_biome_api_v1, mod:fabric_registry_sync_v0, mod:fabric_recipe_api_v1, mod:fabric_object_builder_api_v1, mod:fabric_sound_api_v1, mod:fabric_message_api_v1, mod:expandability (incompatible), mod:fabric_data_generation_api_v1, mod:fabric_events_interaction_v0, mod:aquamirae, fabric, mod:sound_physics_remastered (incompatible), mod:fdbosses (incompatible), mod:mastersword, mod:azurelib, mod:lowlands_clothing, mod:silksong, mod:monsterexpansion, mod:threateningly_mobs, mod:fdlib (incompatible), mod:epic_fight_avalon, mod:wraithon, mod:hollow_knight_silksong_armor, mod:lootr, mod:dodosmobs (incompatible), mod:cosmeticarmorreworked
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Experimental
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	Sinytra Connector: 1.0.0-beta.47+1.20.1
+		SINYTRA CONNECTOR IS PRESENT!
+		Please verify issues are not caused by Connector before reporting them to mod authors. If you're unsure, file a report on Connector's issue tracker.
+		Connector's issue tracker can be found at https://github.com/Sinytra/Connector/issues.
+		Installed Fabric mods:
+		| ================================================== | ============================== | ============================== | ==================== |
+		| camping-fabric-1.20.1-2.0.0_mapped_srg_1.20.1.jar  | Camping                        | camping                        | 2.0.0                |
+		| trinkets-3.7.2_mapped_srg_1.20.1.jar               | Trinkets                       | trinkets                       | 3.7.2                |
+		| trinkets-3.7.2$cardinal-components-entity-5.2.0_ma | Cardinal Components API (entit | cardinal_components_entity     | 5.2.0                |
+		| audioplayer-fabric-1.20.1-1.8.9_mapped_srg_1.20.1. | AudioPlayer                    | audioplayer                    | 1.20.1-1.8.9         |
+		| trinkets-3.7.2$cardinal-components-base-5.2.0_mapp | Cardinal Components API (base) | cardinal_components_base       | 5.2.0                |
+		| Obscure-API-16_mapped_srg_1.20.1.jar               | Obscure API                    | obscure_api                    | 16                   |
+		| audioplayer-fabric-1.20.1-1.8.9$admiral-0.4.4+1.20 | Admiral                        | admiral                        | 0.4.41.20.1          |
+		| azurelib-fabric-1.20.1-3.1.3_mapped_srg_1.20.1.jar | AzureLib                       | azurelib                       | 3.1.3                |
+		| Aquamirae 6_mapped_srg_1.20.1.jar                  | Aquamirae                      | aquamirae                      | 6                    |
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.5.jar eventbus PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.13.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.13.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.13.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.13.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.20.1-47.4.13.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.9.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar fml TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar mixin-transmogrifier TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar connector_loader TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		hexerei-0.4.2.3.jar                               |Hexerei                       |hexerei                       |1.20.1-0.4.2.3      |DONE      |Manifest: NOSIGNATURE
+		camping-fabric-1.20.1-2.0.0_mapped_srg_1.20.1.jar |Camping                       |camping                       |2.0.0               |DONE      |Manifest: NOSIGNATURE
+		kuma-api-forge-20.1.12+1.20.1.jar                 |KumaAPI                       |kuma_api                      |20.1.12             |DONE      |Manifest: NOSIGNATURE
+		fabric-renderer-api-v1-3.2.2+cf68abbe77.jar       |Fabric Renderer API (v1)      |fabric_renderer_api_v1        |3.2.2+cf68abbe77    |DONE      |Manifest: NOSIGNATURE
+		trinkets-3.7.2_mapped_srg_1.20.1.jar              |Trinkets                      |trinkets                      |3.7.2               |DONE      |Manifest: NOSIGNATURE
+		player-animation-lib-forge-1.0.2-rc1 1.20.jar     |Player Animator               |playeranimator                |1.0.2-rc1+1.20      |DONE      |Manifest: NOSIGNATURE
+		fabric-item-api-v1-2.1.29+4d0bbcfa77.jar          |Fabric Item API (v1)          |fabric_item_api_v1            |2.1.29+4d0bbcfa77   |DONE      |Manifest: NOSIGNATURE
+		fabric-rendering-fluids-v1-3.0.29+4ac5e37a77.jar  |Fabric Rendering Fluids (v1)  |fabric_rendering_fluids_v1    |3.0.29+4ac5e37a77   |DONE      |Manifest: NOSIGNATURE
+		trinkets-3.7.2$cardinal-components-entity-5.2.0_ma|Cardinal Components API (entit|cardinal_components_entity    |5.2.0               |DONE      |Manifest: NOSIGNATURE
+		fabric-models-v0-0.4.3+7c3892a477.jar             |Fabric Models (v0)            |fabric_models_v0              |0.4.3+7c3892a477    |DONE      |Manifest: NOSIGNATURE
+		fabric-convention-tags-v1-1.5.6+fa3d1c0177.jar    |Fabric Convention Tags        |fabric_convention_tags_v1     |1.5.6+fa3d1c0177    |DONE      |Manifest: NOSIGNATURE
+		citadel-2.6.2-1.20.1.jar                          |Citadel                       |citadel                       |2.6.2               |DONE      |Manifest: NOSIGNATURE
+		alexsmobs-1.22.9.jar                              |Alex's Mobs                   |alexsmobs                     |1.22.9              |DONE      |Manifest: NOSIGNATURE
+		fabric-command-api-v1-1.2.35+f71b366f77.jar       |Fabric Command API (v1)       |fabric_command_api_v1         |1.2.35+f71b366f77   |DONE      |Manifest: NOSIGNATURE
+		fabric-block-view-api-v2-1.0.3+53347ba977.jar     |Fabric BlockView API (v2)     |fabric_block_view_api_v2      |1.0.3+53347ba977    |DONE      |Manifest: NOSIGNATURE
+		fabric-command-api-v2-2.2.14+561530ec77.jar       |Fabric Command API (v2)       |fabric_command_api_v2         |2.2.14+561530ec77   |DONE      |Manifest: NOSIGNATURE
+		fabric-data-attachment-api-v1-1.0.2+30ef839e77.jar|Fabric Data Attachment API (v1|fabric_data_attachment_api_v1 |1.0.2+30ef839e77    |DONE      |Manifest: NOSIGNATURE
+		royal-variations-[Forge]_1.20.1_2.0.2.jar         |Royal Variations              |royalvariations               |2.0.2               |DONE      |Manifest: NOSIGNATURE
+		relics-1.20.1-0.8.0.11.jar                        |Relics                        |relics                        |0.8.0.11            |DONE      |Manifest: NOSIGNATURE
+		fdbosses-2.0.9.1-1.20.1.jar                       |Qliphoth Awakening            |fdbosses                      |2.0.9.1             |DONE      |Manifest: NOSIGNATURE
+		balm-forge-1.20.1-7.3.37-all.jar                  |Balm                          |balm                          |7.3.37              |DONE      |Manifest: NOSIGNATURE
+		fabric-screen-api-v1-2.0.9+45a670a577.jar         |Fabric Screen API (v1)        |fabric_screen_api_v1          |2.0.9+45a670a577    |DONE      |Manifest: NOSIGNATURE
+		Paraglider-forge-20.1.3.jar                       |Paraglider                    |paraglider                    |20.1.3              |DONE      |Manifest: NOSIGNATURE
+		cloth-config-11.1.136-forge.jar                   |Cloth Config v10 API          |cloth_config                  |11.1.136            |DONE      |Manifest: NOSIGNATURE
+		fabric-api-0.92.6 1.11.14 1.20.1.jar              |Forgified Fabric API          |fabric_api                    |0.92.6+1.11.14+1.20.|DONE      |Manifest: NOSIGNATURE
+		fabric-content-registries-v0-4.0.13+a670df1e77.jar|Fabric Content Registries (v0)|fabric_content_registries_v0  |4.0.13+a670df1e77   |DONE      |Manifest: NOSIGNATURE
+		fabric-game-rule-api-v1-1.0.41+683d4da877.jar     |Fabric Game Rule API (v1)     |fabric_game_rule_api_v1       |1.0.41+683d4da877   |DONE      |Manifest: NOSIGNATURE
+		fabric-api-lookup-api-v1-1.6.37+67f9824077.jar    |Fabric API Lookup API (v1)    |fabric_api_lookup_api_v1      |1.6.37+67f9824077   |DONE      |Manifest: NOSIGNATURE
+		endrem_forge-5.3.3-R-1.20.1.jar                   |End Remastered                |endrem                        |5.3.3-R-1.20.1      |DONE      |Manifest: NOSIGNATURE
+		eeeabsmobs-1.20.1-0.97-Fix.jar                    |EEEAB's Mobs                  |eeeabsmobs                    |1.20.1-0.97         |DONE      |Manifest: NOSIGNATURE
+		lionfishapi-2.4-Fix.jar                           |LionfishAPI                   |lionfishapi                   |2.4-Fix             |DONE      |Manifest: NOSIGNATURE
+		audioplayer-fabric-1.20.1-1.8.9_mapped_srg_1.20.1.|AudioPlayer                   |audioplayer                   |1.20.1-1.8.9        |DONE      |Manifest: NOSIGNATURE
+		L_Enders_Cataclysm-3.16.jar                       |cataclysm                     |cataclysm                     |3.16                |DONE      |Manifest: NOSIGNATURE
+		curios-forge-5.14.1 1.20.1.jar                    |Curios API                    |curios                        |5.14.1+1.20.1       |DONE      |Manifest: NOSIGNATURE
+		Connector-1.0.0-beta.47+1.20.1-mod.jar            |Connector                     |connectormod                  |1.0.0-beta.47+1.20.1|DONE      |Manifest: NOSIGNATURE
+		tombstone-1.20.1-9.0.9.jar                        |Corail Tombstone              |tombstone                     |9.0.9               |DONE      |Manifest: NOSIGNATURE
+		fabric-entity-events-v1-1.6.1+4ca7515277.jar      |Fabric Entity Events (v1)     |fabric_entity_events_v1       |1.6.1+4ca7515277    |DONE      |Manifest: NOSIGNATURE
+		trinkets-3.7.2$cardinal-components-base-5.2.0_mapp|Cardinal Components API (base)|cardinal_components_base      |5.2.0               |DONE      |Manifest: NOSIGNATURE
+		architectury-9.2.14-forge.jar                     |Architectury                  |architectury                  |9.2.14              |DONE      |Manifest: NOSIGNATURE
+		fabric-loot-api-v2-1.2.3+eb28f93e77.jar           |Fabric Loot API (v2)          |fabric_loot_api_v2            |1.2.3+eb28f93e77    |DONE      |Manifest: NOSIGNATURE
+		fabric-rendering-data-attachment-v1-0.3.39+a6081af|Fabric Rendering Data Attachme|fabric_rendering_data_attachme|0.3.39+a6081afc77   |DONE      |Manifest: NOSIGNATURE
+		celestisynth-1.20.1-1.3.3-all.jar                 |Celestisynth                  |celestisynth                  |1.20.1-1.3.3        |DONE      |Manifest: NOSIGNATURE
+		fabric-networking-api-v1-1.3.14+fb7c822677.jar    |Fabric Networking API (v1)    |fabric_networking_api_v1      |1.3.14+fb7c822677   |DONE      |Manifest: NOSIGNATURE
+		fabric-lifecycle-events-v1-2.2.23+afab492177.jar  |Fabric Lifecycle Events (v1)  |fabric_lifecycle_events_v1    |2.2.23+afab492177   |DONE      |Manifest: NOSIGNATURE
+		fabric-key-binding-api-v1-1.0.38+561530ec77.jar   |Fabric Key Binding API (v1)   |fabric_key_binding_api_v1     |1.0.38+561530ec77   |DONE      |Manifest: NOSIGNATURE
+		fabric-client-tags-api-v1-1.1.3+5d6761b877.jar    |Fabric Client Tags            |fabric_client_tags_api_v1     |1.1.3+5d6761b877    |DONE      |Manifest: NOSIGNATURE
+		fabric-dimensions-v1-2.1.55+8005d10d77.jar        |Fabric Dimensions API (v1)    |fabric_dimensions_v1          |2.1.55+8005d10d77   |DONE      |Manifest: NOSIGNATURE
+		fabric-transfer-api-v1-3.3.6+631c9cd677.jar       |Fabric Transfer API (v1)      |fabric_transfer_api_v1        |3.3.6+631c9cd677    |DONE      |Manifest: NOSIGNATURE
+		mowziesmobs-1.7.3.jar                             |Mowzie's Mobs                 |mowziesmobs                   |1.7.3               |DONE      |Manifest: NOSIGNATURE
+		geckolib-forge-1.20.1-4.8.2.jar                   |GeckoLib 4                    |geckolib                      |4.8.2               |DONE      |Manifest: NOSIGNATURE
+		OctoLib-FORGE-0.5.0.1 1.20.1.jar                  |OctoLib                       |octolib                       |0.5.0.1             |DONE      |Manifest: NOSIGNATURE
+		fabric-model-loading-api-v1-1.0.4+6274ab9d77.jar  |Fabric Model Loading API (v1) |fabric_model_loading_api_v1   |1.0.4+6274ab9d77    |DONE      |Manifest: NOSIGNATURE
+		fabric-screen-handler-api-v1-1.3.33+561530ec77.jar|Fabric Screen Handler API (v1)|fabric_screen_handler_api_v1  |1.3.33+561530ec77   |DONE      |Manifest: NOSIGNATURE
+		fabric-resource-loader-v0-0.11.12+4b4151c077.jar  |Fabric Resource Loader (v0)   |fabric_resource_loader_v0     |0.11.12+4b4151c077  |DONE      |Manifest: NOSIGNATURE
+		caelus-forge-3.2.0 1.20.1.jar                     |Caelus API                    |caelus                        |3.2.0+1.20.1        |DONE      |Manifest: NOSIGNATURE
+		Obscure-API-16_mapped_srg_1.20.1.jar              |Obscure API                   |obscure_api                   |16                  |DONE      |Manifest: NOSIGNATURE
+		fabric-rendering-v1-3.0.9+66e9a48f77.jar          |Fabric Rendering (v1)         |fabric_rendering_v1           |3.0.9+66e9a48f77    |DONE      |Manifest: NOSIGNATURE
+		waystones-forge-1.20.1-14.1.17.jar                |Waystones                     |waystones                     |14.1.17             |DONE      |Manifest: NOSIGNATURE
+		fabric-renderer-indigo-1.5.3+b5b2da4177.jar       |Fabric Renderer - Indigo      |fabric_renderer_indigo        |1.5.3+b5b2da4177    |DONE      |Manifest: NOSIGNATURE
+		epicfight-forge-20.14.4-1.20.1.jar                |Epic Fight                    |epicfight                     |20.14.4             |DONE      |Manifest: NOSIGNATURE
+		mastersword-epicfight-1.20.1-2.3.1.jar            |Zelda, Legend of the Master Sw|mastersword                   |1.20.1-2.3.1        |DONE      |Manifest: NOSIGNATURE
+		fabric-mining-level-api-v1-2.1.52+561530ec77.jar  |Fabric Mining Level API (v1)  |fabric_mining_level_api_v1    |2.1.52+561530ec77   |DONE      |Manifest: NOSIGNATURE
+		artifacts-forge-9.5.16.jar                        |Artifacts                     |artifacts                     |9.5.16              |DONE      |Manifest: NOSIGNATURE
+		audioplayer-fabric-1.20.1-1.8.9$admiral-0.4.4+1.20|Admiral                       |admiral                       |0.4.41.20.1         |DONE      |Manifest: NOSIGNATURE
+		iceandfire-2.1.13-1.20.1-beta-5.jar               |Ice and Fire                  |iceandfire                    |2.1.13-1.20.1       |DONE      |Manifest: NOSIGNATURE
+		azurelib-fabric-1.20.1-3.1.3_mapped_srg_1.20.1.jar|AzureLib                      |azurelib                      |3.1.3               |DONE      |Manifest: NOSIGNATURE
+		ars_nouveau-1.20.1-4.12.7-all.jar                 |Ars Nouveau                   |ars_nouveau                   |4.12.7              |DONE      |Manifest: NOSIGNATURE
+		fabric-particles-v1-1.1.3+78e1ecb877.jar          |Fabric Particles (v1)         |fabric_particles_v1           |1.1.3+78e1ecb877    |DONE      |Manifest: NOSIGNATURE
+		forge-1.20.1-47.4.13-universal.jar                |Forge                         |forge                         |47.4.13             |DONE      |Manifest: NOSIGNATURE
+		fabric-transitive-access-wideners-v1-4.3.2+1880499|Fabric Transitive Access Widen|fabric_transitive_access_widen|4.3.2+1880499877    |DONE      |Manifest: NOSIGNATURE
+		DungeonsArise-1.20.x-2.1.58-release.jar           |When Dungeons Arise           |dungeons_arise                |2.1.58-1.20.x       |DONE      |Manifest: NOSIGNATURE
+		server-1.20.1-20230612.114412-srg.jar             |Minecraft                     |minecraft                     |1.20.1              |DONE      |Manifest: NOSIGNATURE
+		Clothing_Of_The_Lowlands-1.0.6-forge-1.20.1.jar   |Lowlands Clothing             |lowlands_clothing             |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		silksong-1.0.6-forge-1.20.1.jar                   |Silksong                      |silksong                      |1.0.6               |DONE      |Manifest: NOSIGNATURE
+		dungeons_and_combat-1.2.4-forge-1.20.1.jar        |dungeons and combat           |dungeons_and_combat           |1.2.4               |DONE      |Manifest: NOSIGNATURE
+		bossesrise-1.20.1-forge-1.0.9.2b.jar              |Bosses'Rises                  |block_factorys_bosses         |1.0.9.2.            |DONE      |Manifest: NOSIGNATURE
+		born_in_chaos_[Forge]1.20.1_1.7.4.jar             |Born in Chaos                 |born_in_chaos_v1              |1.7.3               |DONE      |Manifest: NOSIGNATURE
+		mizs_broom-1.0.4-forge-1.20.1.jar                 |Miz's broom                   |mizs_broom                    |1.0.4               |DONE      |Manifest: NOSIGNATURE
+		monsterexpansion-1.20.1-v0.6.3.jar                |Monster Expansion             |monsterexpansion              |1.20.1-v0.6.3       |DONE      |Manifest: NOSIGNATURE
+		alexscaves-2.0.2.jar                              |Alex's Caves                  |alexscaves                    |2.0.2               |DONE      |Manifest: NOSIGNATURE
+		voicechat-forge-1.20.1-2.6.11.jar                 |Simple Voice Chat             |voicechat                     |1.20.1-2.6.11       |DONE      |Manifest: NOSIGNATURE
+		sound-physics-remastered-forge-1.20.1-1.4.10.jar  |Sound Physics Remastered      |sound_physics_remastered      |1.20.1-1.4.10       |DONE      |Manifest: NOSIGNATURE
+		moonlight-1.20-2.12.17-forge.jar                  |Moonlight Library             |moonlight                     |1.20-2.12.17        |DONE      |Manifest: NOSIGNATURE
+		fabric-api-base-0.4.32+ef105b4977.jar             |Fabric API Base               |fabric_api_base               |0.4.32+ef105b4977   |DONE      |Manifest: NOSIGNATURE
+		fabric-blockrenderlayer-v1-1.1.42+1d0da21e77.jar  |Fabric BlockRenderLayer Regist|fabric_blockrenderlayer_v1    |1.1.42+1d0da21e77   |DONE      |Manifest: NOSIGNATURE
+		threateningly_mobs-1.0.9.82-forge-1.20.1.jar      |Threateningly mobs            |threateningly_mobs            |1.0.9.82            |DONE      |Manifest: NOSIGNATURE
+		fdlib-1.0.4-1.20.1.jar                            |FDLib                         |fdlib                         |1.0.4               |DONE      |Manifest: NOSIGNATURE
+		fabric-block-api-v1-1.0.12+0e6cb7f777.jar         |Fabric Block API (v1)         |fabric_block_api_v1           |1.0.12+0e6cb7f777   |DONE      |Manifest: NOSIGNATURE
+		fabric-resource-conditions-api-v1-2.3.9+996d00b277|Fabric Resource Conditions API|fabric_resource_conditions_api|2.3.9+996d00b277    |DONE      |Manifest: NOSIGNATURE
+		reliquary-1.20.1-2.0.55.1326.jar                  |Reliquary                     |reliquary                     |2.0.55.1326         |DONE      |Manifest: NOSIGNATURE
+		epic_fight_avalon-20.12.6.3.jar                   |Epic fight - Avalon           |epic_fight_avalon             |20.12.6.3           |DONE      |Manifest: NOSIGNATURE
+		wraithon-forge1.20.1-1.1.10.jar                   |wraithon                      |wraithon                      |1.1.10              |DONE      |Manifest: NOSIGNATURE
+		fabric-item-group-api-v1-4.0.14+c9161c2d77.jar    |Fabric Item Group API (v1)    |fabric_item_group_api_v1      |4.0.14+c9161c2d77   |DONE      |Manifest: NOSIGNATURE
+		irons_spellbooks-1.20.1-3.4.0.11.jar              |Iron's Spells 'n Spellbooks   |irons_spellbooks              |1.20.1-3.4.0.11     |DONE      |Manifest: NOSIGNATURE
+		hollow_knight_silksong_armor-1.0.0-forge-1.20.1.ja|Hollow Knight: Silksong Armor |hollow_knight_silksong_armor  |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		fabric-biome-api-v1-13.0.14+dc36698e77.jar        |Fabric Biome API (v1)         |fabric_biome_api_v1           |13.0.14+dc36698e77  |DONE      |Manifest: NOSIGNATURE
+		fabric-registry-sync-v0-2.3.6+1c0ea72177.jar      |Fabric Registry Sync (v0)     |fabric_registry_sync_v0       |2.3.6+1c0ea72177    |DONE      |Manifest: NOSIGNATURE
+		fabric-recipe-api-v1-1.0.24+514a076577.jar        |Fabric Recipe API (v1)        |fabric_recipe_api_v1          |1.0.24+514a076577   |DONE      |Manifest: NOSIGNATURE
+		lootr-forge-1.20-0.7.35.94.jar                    |Lootr                         |lootr                         |0.7.35.94           |DONE      |Manifest: NOSIGNATURE
+		fabric-object-builder-api-v1-11.1.5+f8c414ce77.jar|Fabric Object Builder API (v1)|fabric_object_builder_api_v1  |11.1.5+f8c414ce77   |DONE      |Manifest: NOSIGNATURE
+		Dodos Mobs 1.0.1 beta.jar                         |dodosmobs                     |dodosmobs                     |2.64                |DONE      |Manifest: NOSIGNATURE
+		fabric-sound-api-v1-1.0.14+4f23bd8477.jar         |Fabric Sound API (v1)         |fabric_sound_api_v1           |1.0.14+4f23bd8477   |DONE      |Manifest: NOSIGNATURE
+		fabric-message-api-v1-5.1.10+52cc178c77.jar       |Fabric Message API (v1)       |fabric_message_api_v1         |5.1.10+52cc178c77   |DONE      |Manifest: NOSIGNATURE
+		cosmeticarmorreworked-1.20.1-v1a.jar              |CosmeticArmorReworked         |cosmeticarmorreworked         |1.20.1-v1a          |DONE      |Manifest: 5e:ed:25:99:e4:44:14:c0:dd:89:c1:a9:4c:10:b5:0d:e4:b1:52:50:45:82:13:d8:d0:32:89:67:56:57:01:53
+		expandability-forge-9.0.4.jar                     |ExpandAbility                 |expandability                 |9.0.4               |DONE      |Manifest: NOSIGNATURE
+		fabric-data-generation-api-v1-12.3.7+369cb3a477.ja|Fabric Data Generation API (v1|fabric_data_generation_api_v1 |12.3.7+369cb3a477   |DONE      |Manifest: NOSIGNATURE
+		fabric-events-interaction-v0-0.6.5+0f26153f77.jar |Fabric Events Interaction (v0)|fabric_events_interaction_v0  |0.6.5+0f26153f77    |DONE      |Manifest: NOSIGNATURE
+		Aquamirae 6_mapped_srg_1.20.1.jar                 |Aquamirae                     |aquamirae                     |6                   |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 8576a170-ea35-47b4-b895-9347f20d2656
+	FML: 47.4
+	Forge: net.minecraftforge:47.4.13
